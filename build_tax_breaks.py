@@ -176,6 +176,7 @@ te['percent_corp'], te['percent_gdp'], te['percent_indv'], te['percent_npp_cat']
 )
 
 del te['total8182']
+te.sort(['year','name'], inplace=True)
 te.to_csv('%s' % TAX_BREAK_COMPLETE, index=False,
     cols = ['omb_cat','name','year', 'corp', 'indv', 'total', 'gdp', 'gdp_price_index', 
     'corp_adj', 'indv_adj', 'total_adj', 'percent_corp', 'percent_gdp',
@@ -321,6 +322,7 @@ viz['name'] = viz['name'].str.replace('Deductibility Of Charitable Contributions
 viz['name'] = viz['name'].str.replace('Exclusion Of Interest On Public Purpose State And Local Bonds',
     'Exclusion of Interest Income on State and Local Bonds')
 
+viz.sort(['year','name'], inplace=True)
 viz.to_csv('%s' % TAX_BREAK_COMPLETE_CBO, index=False,
     cols = ['omb_cat','name','year', 'corp', 'indv', 'total', 'gdp', 'gdp_price_index', 
     'corp_adj', 'indv_adj', 'total_adj', 'percent_corp', 'percent_gdp',
