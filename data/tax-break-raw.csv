@@ -1,7 +1,7 @@
 NPP Category,OMB Category,Tax Expenditure Name,Year,Original Name,Corporate,Individual,Total for 1981 and 1982,Original OMB Category
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1974,Additional  exemption for over 63,,1150,,Income security:
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1974,,,15,,Income security:
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1974,Capital gain: corporate (other than farming and timber)             Capital gain: individual (other than farming and timber) ,745,6150,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1974,Capital gain: corporate (other than farming and timber),745,,,
 Commerce,Agriculture,Capital gains treatment of certain income,1974,,30,520,,Energy:
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1974,Timber: capital gian treatment of certain income,130,55,,Health
 Energy & Environment,Energy,Capital gains treatment of royalties on coal,1974,,5,,,Commerce and housing credit:
@@ -69,7 +69,7 @@ Commerce,International affairs,Special rate for Western Hemisphere trade corpora
 Government,Commerce and Housing,Surtax exemption (through 1978),1974,"$25,000 corporate surtax exemption",3270,,,Commerce and housing credit:
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1975,Additional  exemption for over 64,,1100,,Veterans benefits and services:
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1975,,,20,,Transportation:
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1975,Capital gain: corporate (other than farming and timber)             Capital gain: individual (other than farming and timber) ,695,5090,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1975,Capital gain: corporate (other than farming and timber),695,,,
 Commerce,Agriculture,Capital gains treatment of certain income,1975,,30,455,,Commerce and housing credit:
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1975,,145,60,,Health
 Energy & Environment,Energy,Capital gains treatment of royalties on coal,1975,,10,40,,Commerce and housing credit:
@@ -387,7 +387,7 @@ Transportation,Transportation,Five-year amortization on railroad rolling stock,1
 "Social Security, Unemployment & Labor",Income security,Income of trusts to finance supplementary unemployment benefits,1978,,,10,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Investment credit for ESOPs,1978,,315,,,"Education, training, employment, and social services:"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than  historic),1978,Investment credit for rehabilitation of structures,,,,Income security:
-Commerce,Commerce and Housing,"Investment credit, other than ESOP's, rehabilitation of structures, energy property, and reforestation expenditures",1978,"Investment credit, other than ESOP's and rehabilitation of structures",10870,2250,,Income security:
+Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitation of structures, energy property, and reforestation expenditures",1978,"Investment credit, other than ESOPs and rehabilitation of structures",10870,2250,,Income security:
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Maximum tax on personal service income,1978,,,1090,,Agriculture
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1978,,,9940,,"Education, training, employment, and social services:"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Self-Employed plans,1978,Net exclusion of pension contributions and earnings: Plans for self-employed and others,,1650,,"Education, training, employment, and social services:"
@@ -480,7 +480,7 @@ Transportation,Transportation,Five-year amortization on railroad rolling stock,1
 "Social Security, Unemployment & Labor",Income security,Income of trusts to finance supplementary unemployment benefits,1979,,,10,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Investment credit for ESOPs,1979,,650,,,"Education, training, employment, and social services:"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than  historic),1979,Investment credit for rehabilitation of structures,55,10,,Commerce and housing:
-Commerce,Commerce and Housing,"Investment credit, other than ESOP's, rehabilitation of structures, energy property, and reforestation expenditures",1979,"Investment credit, other than ESOP's and rehabilitation of structures",13910,2590,,Income security:
+Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitation of structures, energy property, and reforestation expenditures",1979,"Investment credit, other than ESOPs and rehabilitation of structures",13910,2590,,Income security:
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Maximum tax on personal service income,1979,,,1215,,Agriculture
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1979,,,11335,,"Education, training, employment, and social services:"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Self-Employed plans,1979,Net exclusion of pension contributions and earnings: Plans for self-employed and others,,1765,,"Education, training, employment, and social services:"
@@ -584,7 +584,7 @@ Transportation,Transportation,Five-year amortization on railroad rolling stock,1
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1980,,,,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Investment credit for ESOPs,1980,,695,,,"Education, training, employment, and social services:"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than  historic),1980,Investment credit for rehabilitation of structures. ,120,60,,Income security:
-Commerce,Commerce and Housing,"Investment credit, other than ESOP's, rehabilitation of structures, energy property, and reforestation expenditures",1980,"Investment credit, other than ESOP’s and rehabilitation of structures and energ",15200,3050,,Income security:
+Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitation of structures, energy property, and reforestation expenditures",1980,"Investment credit, other than ESOPs and rehabilitation of structures and energy",15200,3050,,Income security:
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Maximum tax on personal service income,1980,,,1320,,Community and regional development:
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1980,,,19785,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Self-Employed plans,1980,Net exclusion of pension contributions and earnings: Plans for self-employed and others,,1925,,"Education, training, employment, and social services"
@@ -687,7 +687,7 @@ Housing & Community,Community and regional development,Five-year amortization fo
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1981,,,,5,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Investment credit for ESOPs,1981,,,,975,"Education, training, employment, and social services:"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than  historic),1981,,,,220,Income security:
-Commerce,Commerce and Housing,"Investment credit, other than ESOP's, rehabilitation of structures, energy property, and reforestation expenditures",1981,,,,19445,Income security:
+Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitation of structures, energy property, and reforestation expenditures",1981,,,,19445,Income security:
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1981,,,,23390,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Self-Employed plans,1981,Net exclusion of pension contributions and earnings: Plans for self-employed and others,,,2170,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1981,,,,1045,Commerce and housing
@@ -788,7 +788,7 @@ Housing & Community,Community and regional development,Five-year amortization fo
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1982,,,,10,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Investment credit for ESOPs,1982,,,,1390,Commerce and housing:
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than  historic),1982,,,,250,Income security:
-Commerce,Commerce and Housing,"Investment credit, other than ESOP's, rehabilitation of structures, energy property, and reforestation expenditures",1982,,,,16455,Income security:
+Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitation of structures, energy property, and reforestation expenditures",1982,,,,16455,Income security:
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1982,,,,45280,Health:
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Self-Employed plans,1982,Net exclusion of pension contributions and earnings: Plans for self-employed and others,,,2835,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1982,,,,1070,Commerce and housing
@@ -849,7 +849,7 @@ Energy & Environment,Energy,Excess of percentage over cost depletion: Oil and ga
 Military,National defense,Exclusion of benefits and allowances to armed forces personnel,1983,,,1785,,Income security:
 Housing & Community,Commerce and Housing,Exclusion of capital gains on home sales for persons age 55 and over,1983,,,600,,Income security:
 Housing & Community,"Education, training, employment, and social services",Exclusion of contributions to prepaid legal services plans,1983,,,40,,Income security
-"Social Security, Unemployment & Labor",Income security,Exclusion of disability pay,1983,,,,,Income security:
+"Social Security, Unemployment & Labor",Income security,Exclusion of disability pay,1983,,,120,,Income security:
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Exclusion Of Employee Meals And Lodging (Other Than Military),1983,,,680,,Veterans benefits and services
 Medicare & Health,Health,Exclusion of employer contributions for medical insurance premiums and medical care,1983,,,15270,,"Education, training, employment, and social services:"
 Education,"Education, training, employment, and social services",Exclusion of employer-provided educational assistance,1983,Employer educational assistance,,40,,Natural resources and environment:
@@ -870,8 +870,8 @@ Energy & Environment,Natural resources and environment,Exclusion of interest on 
 Education,"Education, training, employment, and social services",Exclusion of interest on student loan bonds,1983,Exclusion of interest on State and local student loan bonds,140,65,,"Education, training, employment, and social services:"
 Veterans Benefits,Veterans' benefits and services,Exclusion of interest on veterans housing bonds,1983,Exclusion of interest on State and local debt for veterans housing,180,45,,"Education, training, employment, and social services:"
 Veterans Benefits,Income security,Exclusion of military disability pensions,1983,,,130,,"Education, training, employment, and social services:"
-"Social Security, Unemployment & Labor",Income security,Exclusion of other employee benefits: Premiums on accident and disability insurance,1983,,,,,International affairs:
-"Social Security, Unemployment & Labor",Income security,Exclusion of other employee benefits: Premiums on group term life insurance,1983,,,2800,,National Defense
+"Social Security, Unemployment & Labor",Income security,Exclusion of other employee benefits: Premiums on accident and disability insurance,1983,,,120,,International affairs:
+"Social Security, Unemployment & Labor",Income security,Exclusion of other employee benefits: Premiums on group term life insurance,1983,,,2040,,National Defense
 "Social Security, Unemployment & Labor",Income security,Exclusion of public assistance benefits,1983,,,515,,"Education, training, employment, and social services:"
 "Social Security, Unemployment & Labor",Income security,Exclusion of railroad retirement system benefits,1983,,,780,,Natural resources and environment:
 Education,"Education, training, employment, and social services",Exclusion of scholarship and fellowship income (normal tax method),1983,,,560,,"Education, training, employment, and social services:"
@@ -895,7 +895,7 @@ Housing & Community,Community and regional development,Five-year amortization fo
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1983,,15,,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Investment credit for ESOPs,1983,,1250,,,"Education, training, employment, and social services:"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than  historic),1983,,175,160,,Income security
-Commerce,Commerce and Housing,"Investment credit, other than ESOP's, rehabilitation of structures, energy property, and reforestation expenditures",1983,,18070,3175,,Income security:
+Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitation of structures, energy property, and reforestation expenditures",1983,,18070,3175,,Income security:
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,1983,,,8855,,"General science, space, and technology:"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1983,Keoghs,,1460,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1983,,,46585,,Health:
@@ -903,17 +903,17 @@ Education,"Education, training, employment, and social services",Parental person
 Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1983,,4500,,,Energy:
 Housing & Community,Commerce and Housing,Reinvestment of dividends in public utility stock,1983,,,365,,Natural resources and environment:
 Energy & Environment,Energy,Residential energy credits: Conservation Incentives,1983,,,285,,Natural resources and environment:
-Energy & Environment,Energy,Residential energy credits: Supply Incentives,1983,,,445,,Energy:
+Energy & Environment,Energy,Residential energy credits: Supply Incentives,1983,,,325,,Energy:
 Housing & Community,Commerce and Housing,Safe harbor leasing rules,1983,,3370,,,Community and Regional Development
 Science,"General science, space, and technology",Suspension of the allocation of research and experimentation expenditures,1983,,105,,,"Education, training, employment, and social services:"
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Targeted jobs credit,1983,,390,65,,Energy:
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,1983,,1350,,,Energy:
 Medicare & Health,Health,Tax credit for orphan drug research,1983,,10,,,Natural resources and environment
-"Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,1983,Tax credit for the elderly,,,,Income security:
+"Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,1983,Tax credit for the elderly,,110,,Income security:
 Energy & Environment,Natural resources and environment,Tax incentives for preservation of historic structures,1983,,95,175,,Agriculture:
 Housing & Community,Commerce and Housing,Accelerated depreciation of buildings other than rental housing (normal tax method),1984,,4325,1965,,"Education, training, employment, and social services"
 Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipment (normal tax method),1984,,12810,1280,,Agriculture
-Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1984,,145,570,,Energy
+Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1984,,150,530,,Energy
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1984,,,2520,,Commerce and housing:
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1984,,,40,,Income security
 Energy & Environment,Energy,Alcohol fuel credit,1984,,,,,Health
@@ -1007,7 +1007,7 @@ Housing & Community,Community and regional development,Five-year amortization fo
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1984,,20,,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Investment credit for ESOPs,1984,,1430,,,"Education, training, employment, and social services:"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than  historic),1984,,200,165,,Income security
-Commerce,Commerce and Housing,"Investment credit, other than ESOP's, rehabilitation of structures, energy property, and reforestation expenditures",1984,,20285,3160,,Income security:
+Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitation of structures, energy property, and reforestation expenditures",1984,,20285,3160,,Income security:
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,1984,,,10990,,"General science, space, and technology:"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1984,Keoghs,,1410,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1984,,,44050,,Health:
@@ -1015,7 +1015,7 @@ Education,"Education, training, employment, and social services",Parental person
 Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1984,,4910,,,Energy:
 Housing & Community,Commerce and Housing,Reinvestment of dividends in public utility stock,1984,,,415,,General purpose fiscal assistance:
 Energy & Environment,Energy,Residential energy credits: Conservation Incentives,1984,,,270,,Natural resources and environment:
-Energy & Environment,Energy,Residential energy credits: Supply Incentives,1984,,,415,,Natural resources and environment:
+Energy & Environment,Energy,Residential energy credits: Supply Incentives,1984,,,325,,Natural resources and environment:
 Housing & Community,Commerce and Housing,Safe harbor leasing rules,1984,,2800,,,Community and Regional Development
 Energy & Environment,Natural resources and environment,Special rules for mining reclamation reserves,1984,,10,,,Energy
 Science,"General science, space, and technology",Suspension of the allocation of research and experimentation expenditures,1984,,55,,,Commerce and housing credit:
@@ -1025,13 +1025,13 @@ Medicare & Health,Health,Tax credit for orphan drug research,1984,,15,,,Natural 
 "Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,1984,,,145,,Income security:
 Energy & Environment,Natural resources and environment,Tax incentives for preservation of historic structures,1984,,90,165,,Income security:
 Housing & Community,Commerce and Housing,Accelerated depreciation of buildings other than rental housing (normal tax method),1985,,5420,2590,,"Education, training, employment, and social services"
-Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipment (normal tax method),1985,,19035,2425,,Agriculture
+Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipment (normal tax method),1985,,18105,2040,,Agriculture
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1985,,165,635,,Energy:
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1985,,,3005,,Commerce and housing:
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1985,,,35,,Income security
 Energy & Environment,Energy,Alcohol fuel credit,1985,,,10,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1985,,10,,,Transportation
-Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1985,,,245,,Energy
+Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1985,,,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1985,,175,95,,Energy:
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1985,,25,210,,"General science, space, and technology:"
 Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1985,"Capital gains (other than agriculture, timber, iron ore, and coal)",1540,25885,,Income security:
@@ -1110,20 +1110,20 @@ Housing & Community,Commerce and Housing,Exemption of credit union income,1985,,
 Food & Agriculture,Agriculture,Expensing of certain capital outlays,1985,,70,400,,International affairs:
 Energy & Environment,Natural resources and environment,"Expensing of exploration and development costs, nonfuel minerals",1985,,50,5,,Commerce and housing credit:
 Energy & Environment,Energy,Expensing of exploration and development costs: Oil and gas,1985,,-240,825,,"Education, training, employment, and social services"
-Energy & Environment,Energy,Expensing of exploration and development costs: Other fuels,1985,,,,,"Education, training, employment, and social services"
-Science,"General science, space, and technology",Expensing of research and experimentation expenditures,1985,Expensing of research and development expenditures,3430,160,,GENERAL PURPOSE FISCAL ASSISTANCE
+Energy & Environment,Energy,Expensing of exploration and development costs: Other fuels,1985,,40,,,"Education, training, employment, and social services"
+Science,"General science, space, and technology",Expensing of research and experimentation expenditures,1985,Expensing of research and development expenditures,3430,160,,"General science, space, and technology"
 Housing & Community,Community and regional development,Five-year amortization for housing rehabilitation,1985,,30,40,,General government:
 "Social Security, Unemployment & Labor",Income security,Income of trusts to finance supplementary unemployment benefits,1985,,,20,,"Education, training, employment, and social services"
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1985,,20,,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Investment credit for ESOPs,1985,,1890,,,"Education, training, employment, and social services:"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than  historic),1985,,185,160,,Income security
-Commerce,Commerce and Housing,"Investment credit, other than ESOP's, rehabilitation of structures, energy property, and reforestation expenditures",1985,,21315,3130,,Commerce and housing credit:
+Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitation of structures, energy property, and reforestation expenditures",1985,,21315,3130,,Commerce and housing credit:
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,1985,,,12695,,"General science, space, and technology:"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1985,Keoghs,,1960,,"Education, training, employment, and social services:"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1985,,,48525,,Community and regional development:
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1985,,,1110,,Commerce and housing:
 Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1985,,5015,,,General government:
-Housing & Community,Commerce and Housing,Reinvestment of dividends in public utility stock,1985,,,280,,Natural resources and environment:
+Housing & Community,Commerce and Housing,Reinvestment of dividends in public utility stock,1985,,,450,,Natural resources and environment:
 Energy & Environment,Energy,Residential energy credits: Conservation Incentives,1985,,,245,,Natural resources and environment:
 Energy & Environment,Energy,Residential energy credits: Supply Incentives,1985,,,330,,Natural resources and environment:
 Housing & Community,Commerce and Housing,Safe harbor leasing rules,1985,,2340,,,Community and Regional Development
@@ -1152,10 +1152,10 @@ Energy & Environment,Natural resources and environment,Capital gains treatment o
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1986,,,15,,Commerce and housing credit:
 Energy & Environment,Energy,Capital gains treatment of royalties on coal,1986,,10,75,,Health
 Housing & Community,Commerce and Housing,Carryover basis of capital gains at death,1986,,,4940,,Commerce and housing credit:
-"Social Security, Unemployment & Labor","Education, training, employment, and social services",Credit for child and dependent care expenses,1986,,430,3170,,Commerce and housing
+"Social Security, Unemployment & Labor","Education, training, employment, and social services",Credit for child and dependent care expenses,1986,,,3170,,Commerce and housing
 Science,"General science, space, and technology",Credit for increasing research activities,1986,,665,15,,"Education, training, employment, and social services:"
 Housing & Community,Commerce and Housing,Credit for low-income housing investments,1986,,,,,Income security:
-Government,General government,Credits and deductions for political contributions,1986,,,220,,Community and Regional Development
+Government,General government,Credits and deductions for political contributions,1986,,,260,,Community and Regional Development
 "Social Security, Unemployment & Labor",Income security,Deductibility of casualty losses,1986,,,275,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Deductibility of charitable contributions (education),1986,,480,1160,,International affairs
 Medicare & Health,Health,Deductibility of charitable contributions (health),1986,,295,1705,,Income security
@@ -1163,7 +1163,7 @@ Housing & Community,"Education, training, employment, and social services","Dedu
 Commerce,Commerce and Housing,Deductibility of interest on consumer credit,1986,,,17945,,Income security:
 Medicare & Health,Health,Deductibility of medical expenses,1986,,,3755,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Deductibility of mortgage interest on owner-occupied homes,1986,,,30435,,"Natural resources, environment, and energy"
-Government,Commerce and Housing,Deductibility of nonbusiness State and local taxes other than on owner-occupied homes,1986,,,18800,,"General science, space, and technology"
+Government,Commerce and Housing,Deductibility of nonbusiness State and local taxes other than on owner-occupied homes,1986,,,23985,,"General science, space, and technology"
 Housing & Community,Commerce and Housing,Deductibility of State and local property tax on owner-occupied homes,1986,,,8560,,Natural resources and environment
 Transportation,Transportation,Deduction for motor carrier operating rights,1986,,5,5,,Energy:
 Housing & Community,Commerce and Housing,Deduction for special percentage of taxable income for life insurance companies,1986,,1425,,,Energy:
@@ -1171,7 +1171,7 @@ Housing & Community,Commerce and Housing,Deduction for special percentage of tax
 Housing & Community,"Education, training, employment, and social services",Deductions for certain adoption expenses,1986,,,,,Natural resources and environment
 Housing & Community,Commerce and Housing,Deferral of capital gains on home sales,1986,,,1985,,Natural resources and environment:
 Commerce,International affairs,Deferral of income from controlled foreign corporations,1986,,390,,,Agriculture
-Interest on Debt,Interest,Deferral of interest on US savings bonds,1986,Deferral of interest on savings bonds,,810,,Commerce and housing:
+Interest on Debt,Interest,Deferral of interest on US savings bonds,1986,Deferral of interest on savings bonds,,820,,Commerce and housing:
 Transportation,Transportation,Deferral of tax on shipping companies,1986,,130,,,Commerce and housing credit:
 Commerce,Commerce and Housing,Dividend exclusion,1986,,,535,,Veterans benefits and services:
 "Social Security, Unemployment & Labor",Income security,Earned income tax credit,1986,Earned income credit,,590,,Veterans benefits and services:
@@ -1187,7 +1187,7 @@ Housing & Community,"Education, training, employment, and social services",Exclu
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Exclusion Of Employee Meals And Lodging (Other Than Military),1986,,,850,,Veterans benefits and services
 Medicare & Health,Health,Exclusion of employer contributions for medical insurance premiums and medical care,1986,,,23435,,"Education, training, employment, and social services:"
 Education,"Education, training, employment, and social services",Exclusion of employer-provided educational assistance,1986,Employer educational assistance,,75,,Commerce and housing credit:
-Veterans Benefits,Veterans' benefits and services,Exclusion of GI bill benefits,1986,,,90,,Commerce and housing
+Veterans Benefits,Veterans' benefits and services,Exclusion of GI bill benefits,1986,,,105,,Commerce and housing
 International affairs,International affairs,Exclusion of income earned abroad by US citizens,1986,,,1490,,"Education, training, employment, and social services:"
 Commerce,International affairs,Exclusion of income of foreign sales corporations,1986,,945,,,GENERAL PURPOSE FISCAL ASSISTANCE
 Housing & Community,Community and regional development,"Exclusion of interest for airport, dock, and similar bonds",1986,"Exclusion of interest on IDBs for airports, docks and sports and convention facilities",-70,655,,General purpose fiscal assistance:
@@ -1195,14 +1195,14 @@ Education,"Education, training, employment, and social services",Exclusion of in
 Energy & Environment,Energy,Exclusion of interest on energy facility bonds,1986,Exclusion of interest on State and local industrial development bonds for certain energy facilities,-25,210,,Health
 Medicare & Health,Health,Exclusion of interest on hospital construction bonds,1986,Exclusion of interest on State and local debt for private nonprofit health facilities,70,2165,,Energy
 "Social Security, Unemployment & Labor",Commerce and Housing,Exclusion of interest on life insurance savings,1986,,,6990,,Natural resources and environment
-Government,General purpose fiscal assistance,Exclusion of interest on public purpose State and local bonds,1986,Exclusion of interest on general purpose State and local debt ,2170,7995,,Community and regional development:
+Government,General purpose fiscal assistance,Exclusion of interest on public purpose State and local bonds,1986,Exclusion of interest on public purpose State and local debt ,2170,7420,,Community and regional development:
 Housing & Community,Commerce and Housing,Exclusion of interest on small issue bonds,1986,Exclusion of interest on small issue industrial development bonds,-400,3175,,Veterans benefits and services:
 Housing & Community,Commerce and Housing,Exclusion of interest on State and local debt for rental housing,1986,,340,900,,Veterans benefits and services:
 Transportation,Transportation,Exclusion of interest on State and local government bonds for mass commuting vehicles,1986,,-5,50,,Natural resources and environment
 Housing & Community,Commerce and Housing,Exclusion of interest on State and local housing bonds for owner-occupied housing,1986,,510,1540,,"Education, training, employment, and social services"
 Energy & Environment,Natural resources and environment,Exclusion of interest on State and local IDBs for pollution control and sewage and waste disposal facilities,1986,,-305,1905,,"Education, training, employment, and social services:"
 Education,"Education, training, employment, and social services",Exclusion of interest on student loan bonds,1986,Exclusion of interest on State and local student loan bonds,80,280,,Health:
-Veterans Benefits,Veterans' benefits and services,Exclusion of interest on veterans housing bonds,1986,Exclusion of interest on State and local debt for veterans housing,75,220,,"Education, training, employment, and social services:"
+Veterans Benefits,Veterans' benefits and services,Exclusion of interest on veterans housing bonds,1986,Exclusion of interest on State and local debt for veterans housing,75,225,,"Education, training, employment, and social services:"
 Veterans Benefits,Income security,Exclusion of military disability pensions,1986,,,120,,"Education, training, employment, and social services:"
 "Social Security, Unemployment & Labor",Income security,Exclusion of other employee benefits: Premiums on accident and disability insurance,1986,,,130,,Agriculture:
 "Social Security, Unemployment & Labor",Income security,Exclusion of other employee benefits: Premiums on group term life insurance,1986,,,2200,,Income security:
@@ -1220,7 +1220,7 @@ Veterans Benefits,Veterans' benefits and services,Exclusion of veterans pensions
 "Social Security, Unemployment & Labor",Income security,Exclusion of workers' compensation benefits,1986,Exclusion of workmen's compensation benefits.........,,2425,,Commerce and housing credit:
 Housing & Community,Commerce and Housing,Exemption of credit union income,1986,,195,,,Transportation:
 Food & Agriculture,Agriculture,Expensing of certain capital outlays,1986,,75,425,,International affairs:
-Food & Agriculture,Agriculture,Expensing of certain multiperiod production costs,1986,,10,75,,"General science, space, and technology"
+Food & Agriculture,Agriculture,Expensing of certain multiperiod production costs,1986,,,,,"General science, space, and technology"
 Energy & Environment,Natural resources and environment,"Expensing of exploration and development costs, nonfuel minerals",1986,,30,5,,Commerce and housing credit:
 Energy & Environment,Energy,Expensing of exploration and development costs: Oil and gas,1986,,-1110,600,,"Education, training, employment, and social services"
 Energy & Environment,Energy,Expensing of exploration and development costs: Other fuels,1986,,35,,,"Education, training, employment, and social services:"
@@ -1233,7 +1233,7 @@ International affairs,International affairs,Inventory property sales source rule
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1986,,40,180,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Investment credit for ESOPs,1986,,1165,,,"Education, training, employment, and social services"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than  historic),1986,,165,110,,Income security
-Commerce,Commerce and Housing,"Investment credit, other than ESOP's, rehabilitation of structures, energy property, and reforestation expenditures",1986,,17305,2750,,Income security:
+Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitation of structures, energy property, and reforestation expenditures",1986,,17305,2750,,Income security:
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,1986,,,14890,,"General science, space, and technology"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1986,Keoghs,,2135,,"Education, training, employment, and social services:"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1986,,,48950,,"Education, training, employment, and social services"
@@ -1247,7 +1247,7 @@ Housing & Community,Commerce and Housing,Special investment credit carryback rul
 Food & Agriculture,Agriculture,Special investment tax credit carryback rules for farming,1986,,,,,Commerce and housing:
 Energy & Environment,Natural resources and environment,Special rules for mining reclamation reserves,1986,,35,5,,Energy
 Science,"General science, space, and technology",Suspension of the allocation of research and experimentation expenditures,1986,,260,,,Commerce and housing credit:
-"Social Security, Unemployment & Labor","Education, training, employment, and social services",Targeted jobs credit,1986,,,80,,Energy:
+"Social Security, Unemployment & Labor","Education, training, employment, and social services",Targeted jobs credit,1986,,430,80,,Energy:
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,1986,,1895,,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,1986,,,,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,1986,,,105,,Income security:
@@ -1282,7 +1282,7 @@ Housing & Community,"Education, training, employment, and social services","Dedu
 Commerce,Commerce and Housing,Deductibility of interest on consumer credit,1987,,,11845,,Income security:
 Medicare & Health,Health,Deductibility of medical expenses,1987,,,3150,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Deductibility of mortgage interest on owner-occupied homes,1987,,,34745,,Commerce and transportation:
-Government,Commerce and Housing,Deductibility of nonbusiness State and local taxes other than on owner-occupied homes,1987,,,17250,,"General science, space, and technology"
+Government,Commerce and Housing,Deductibility of nonbusiness State and local taxes other than on owner-occupied homes,1987,,,22480,,"General science, space, and technology"
 Housing & Community,Commerce and Housing,Deductibility of State and local property tax on owner-occupied homes,1987,,,10285,,Natural resources and environment
 Housing & Community,Commerce and Housing,Deduction for special percentage of taxable income for life insurance companies,1987,,290,,,Energy:
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Deduction for two earner married couples,1987,,,5390,,Energy:
@@ -1290,7 +1290,7 @@ Housing & Community,"Education, training, employment, and social services",Deduc
 Housing & Community,Commerce and Housing,Deferral of capital gains on home sales,1987,,,2575,,Natural resources and environment:
 Commerce,International affairs,Deferral of income from controlled foreign corporations,1987,,235,,,Agriculture
 Commerce,Commerce and Housing,Deferral of income from installment sales,1987,Deferral of income from post-1987 installment sales,,,,Agriculture
-Interest on Debt,Interest,Deferral of interest on US savings bonds,1987,Deferral of interest on savings bonds,,885,,Commerce and housing credit:
+Interest on Debt,Interest,Deferral of interest on US savings bonds,1987,Deferral of interest on savings bonds,,870,,Commerce and housing credit:
 Transportation,Transportation,Deferral of tax on shipping companies,1987,,115,,,Commerce and housing credit:
 Commerce,Commerce and Housing,Dividend exclusion,1987,,,350,,Veterans benefits and services:
 "Social Security, Unemployment & Labor",Income security,Earned income tax credit,1987,Earned income credit,,525,,Veterans benefits and services:
@@ -1307,7 +1307,7 @@ Housing & Community,"Education, training, employment, and social services",Exclu
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Exclusion Of Employee Meals And Lodging (Other Than Military),1987,,,745,,Veterans benefits and services
 Medicare & Health,Health,Exclusion of employer contributions for medical insurance premiums and medical care,1987,,,24550,,General purpose fiscal assistance:
 Education,"Education, training, employment, and social services",Exclusion of employer-provided educational assistance,1987,Exclusion of employer education assistance,,220,,Commerce and housing credit:
-"Social Security, Unemployment & Labor",Veterans' benefits and services,Exclusion of GI bill benefits,1987,,,70,,Commerce and housing
+"Social Security, Unemployment & Labor",Veterans' benefits and services,Exclusion of GI bill benefits,1987,,,90,,Commerce and housing
 International affairs,International affairs,Exclusion of income earned abroad by US citizens,1987,,,1330,,"Education, training, employment, and social services:"
 Commerce,International affairs,Exclusion of income of foreign sales corporations,1987,,770,,,GENERAL PURPOSE FISCAL ASSISTANCE
 Housing & Community,Community and regional development,"Exclusion of interest for airport, dock, and similar bonds",1987,"Exclusion of interest on IDBs for airports, docks and sports and convention facilities",755,,,General purpose fiscal assistance:
@@ -1315,14 +1315,14 @@ Education,"Education, training, employment, and social services",Exclusion of in
 Energy & Environment,Energy,Exclusion of interest on energy facility bonds,1987,Exclusion of interest on State and local industrial development bonds for certain energy facilities,305,,,Health
 Medicare & Health,Health,Exclusion of interest on hospital construction bonds,1987,Exclusion of interest on State and local debt for private nonprofit health facilities,,2570,,Energy
 "Social Security, Unemployment & Labor",Commerce and Housing,Exclusion of interest on life insurance savings,1987,,315,5110,,Natural resources and environment:
-Government,General purpose fiscal assistance,Exclusion of interest on public purpose State and local bonds,1987,Exclusion of interest on general purpose State and local debt ,2070,8460,,Community and regional development:
+Government,General purpose fiscal assistance,Exclusion of interest on public purpose State and local bonds,1987,Exclusion of interest on public purpose State and local debt ,2070,8810,,Community and regional development:
 Housing & Community,Commerce and Housing,Exclusion of interest on small issue bonds,1987,Exclusion of interest on small issue industrial development bonds,2925,,,Veterans benefits and services:
 Housing & Community,Commerce and Housing,Exclusion of interest on State and local debt for rental housing,1987,,1385,,,Veterans benefits and services:
 Transportation,Transportation,Exclusion of interest on State and local government bonds for mass commuting vehicles,1987,,35,,,Natural resources and environment
 Housing & Community,Commerce and Housing,Exclusion of interest on State and local housing bonds for owner-occupied housing,1987,,,2010,,"Education, training, employment, and social services"
 Energy & Environment,Natural resources and environment,Exclusion of interest on State and local IDBs for pollution control and sewage and waste disposal facilities,1987,,1715,,,"Education, training, employment, and social services:"
 Education,"Education, training, employment, and social services",Exclusion of interest on student loan bonds,1987,Exclusion of interest on State and local student loan bonds,,400,,Health:
-Veterans Benefits,Veterans' benefits and services,Exclusion of interest on veterans housing bonds,1987,Exclusion of interest on State and local debt for veterans housing,,250,,"Education, training, employment, and social services:"
+Veterans Benefits,Veterans' benefits and services,Exclusion of interest on veterans housing bonds,1987,Exclusion of interest on State and local debt for veterans housing,,300,,"Education, training, employment, and social services:"
 Veterans Benefits,Income security,Exclusion of military disability pensions,1987,,,115,,"Education, training, employment, and social services:"
 "Social Security, Unemployment & Labor",Income security,Exclusion of other employee benefits: Premiums on accident and disability insurance,1987,,,120,,Agriculture:
 "Social Security, Unemployment & Labor",Income security,Exclusion of other employee benefits: Premiums on group term life insurance,1987,,,1940,,Commerce and housing credit:
@@ -1330,13 +1330,13 @@ Housing & Community,"Education, training, employment, and social services",Exclu
 "Social Security, Unemployment & Labor",Income security,Exclusion of public assistance benefits,1987,,,530,,Energy:
 "Social Security, Unemployment & Labor",Income security,Exclusion of railroad retirement system benefits,1987,,,400,,Natural resources and environment
 Education,"Education, training, employment, and social services",Exclusion of scholarship and fellowship income (normal tax method),1987,,,610,,Commerce and housing
-"Social Security, Unemployment & Labor",Social Security,Exclusion of social security benefits: Social Security benefits for disabled workers,1987,Exclusion of social security benefits: Disability insurance benefits,,,,Commerce and housing credit:
+"Social Security, Unemployment & Labor",Social Security,Exclusion of social security benefits: Social Security benefits for disabled workers,1987,Exclusion of social security benefits: Disability insurance benefits,,1170,,Commerce and housing credit:
 "Social Security, Unemployment & Labor",Social Security,Exclusion of social security benefits: Social Security benefits for retired workers ,1987,Exclusion of social security benefits: OASI benefits for retired workers,,14285,,Energy
 "Social Security, Unemployment & Labor",Social Security,"Exclusion of social security benefits: Social Security benefits for spouses, dependents and survivors",1987,Exclusion of social security benefits: Benefits for dependents and survivors ,,3025,,Energy:
 "Social Security, Unemployment & Labor",Income security,Exclusion of special benefits for disabled coal miners,1987,,,135,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Exclusion of unemployment insurance benefits,1987,Exclusion of untaxed unemployment insurance benefits,,690,,"Education, training, employment, and social services"
-Veterans Benefits,Veterans' benefits and services,Exclusion of veterans death benefits and disability compensation,1987,Exclusion of veterans disability compensation,,1470,,Income security:
-Veterans Benefits,Veterans' benefits and services,Exclusion of veterans pensions,1987,,,85,,Commerce and housing credit:
+Veterans Benefits,Veterans' benefits and services,Exclusion of veterans death benefits and disability compensation,1987,Exclusion of veterans disability compensation,,1615,,Income security:
+Veterans Benefits,Veterans' benefits and services,Exclusion of veterans pensions,1987,,,130,,Commerce and housing credit:
 "Social Security, Unemployment & Labor",Income security,Exclusion of workers' compensation benefits,1987,Exclusion of workmen's compensation benefits.........,,2740,,Commerce and housing credit:
 Housing & Community,Commerce and Housing,Exemption of credit union income,1987,,195,,,Transportation:
 Housing & Community,Commerce and Housing,Exemption of RIC expenses from the 2% floor miscellaneous itemized deduction,1987,Exemption of RIC expenses from miscellaneous deductions floor,,,,Health
@@ -1354,7 +1354,7 @@ International affairs,International affairs,Inventory property sales source rule
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1987,,40,165,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Investment credit for ESOPs,1987,,665,,,"Education, training, employment, and social services"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than  historic),1987,,145,130,,Income security
-Commerce,Commerce and Housing,"Investment credit, other than ESOP's, rehabilitation of structures, energy property, and reforestation expenditures",1987,,11505,1800,,Income security:
+Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitation of structures, energy property, and reforestation expenditures",1987,,11505,1800,,Income security:
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,1987,,,13890,,"General science, space, and technology:"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1987,Keoghs,,2355,,"Education, training, employment, and social services:"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1987,,,45335,,"Education, training, employment, and social services:"
@@ -1475,7 +1475,7 @@ International affairs,International affairs,Inventory property sales source rule
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1988,,40,165,,Health:
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Investment credit for ESOPs,1988,,230,,,Commerce and housing credit:
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than  historic),1988,,90,75,,Health:
-Commerce,Commerce and Housing,"Investment credit, other than ESOP's, rehabilitation of structures, energy property, and reforestation expenditures",1988,,7950,1200,,Income security:
+Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitation of structures, energy property, and reforestation expenditures",1988,,7950,1200,,Income security:
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,1988,,,8820,,"General science, space, and technology:"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1988,,,1655,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1988,,,44180,,"Education, training, employment, and social services"
@@ -1503,7 +1503,7 @@ Housing & Community,Commerce and Housing,Accelerated depreciation of buildings o
 Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipment (normal tax method),1989,,23145,5660,,Agriculture
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1989,,1135,605,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,1989,,,10,,Natural resources and environment:
-"Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1989,,,1505,,Commerce and housing
+"Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1989,,,1260,,Commerce and housing
 Energy & Environment,Energy,Alcohol fuel credit,1989,,,,,Health:
 Energy & Environment,Energy,Alternative fuel production credit,1989,,10,,,Transportation
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1989,,,,,Energy
@@ -1514,22 +1514,22 @@ Housing & Community,Commerce and Housing,Carryover basis of capital gains on gif
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Credit for child and dependent care expenses,1989,,,3710,,Commerce and housing
 Science,"General science, space, and technology",Credit for increasing research activities,1989,,1120,25,,Income security
 Housing & Community,Commerce and Housing,Credit for low-income housing investments,1989,,60,225,,Income security:
-"Social Security, Unemployment & Labor",Income security,Deductibility of casualty losses,1989,,,165,,"Education, training, employment, and social services"
+"Social Security, Unemployment & Labor",Income security,Deductibility of casualty losses,1989,,,140,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Deductibility of charitable contributions (education),1989,,470,1100,,International affairs
 Medicare & Health,Health,Deductibility of charitable contributions (health),1989,,290,1125,,Income security
 Housing & Community,"Education, training, employment, and social services","Deductibility of charitable contributions, other than education and health",1989,,585,10005,,Income security
 Commerce,Commerce and Housing,Deductibility of interest on consumer credit,1989,,,3945,,Income security:
 Medicare & Health,Health,Deductibility of medical expenses,1989,,,2690,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Deductibility of mortgage interest on owner-occupied homes,1989,,,34190,,Commerce and transportation:
-Government,Commerce and Housing,Deductibility of nonbusiness State and local taxes other than on owner-occupied homes,1989,,,20290,,"General science, space, and technology"
+Government,Commerce and Housing,Deductibility of nonbusiness State and local taxes other than on owner-occupied homes,1989,,,18495,,"General science, space, and technology"
 Housing & Community,Commerce and Housing,Deductibility of State and local property tax on owner-occupied homes,1989,,,10065,,Natural resources and environment
 Food & Agriculture,Agriculture,Deferral of 1988 drought-related payments,1989,Deferral of drought-related payments,25,165,,Natural resources and environment
 Housing & Community,Commerce and Housing,Deferral of capital gains on home sales,1989,,,12035,,Natural resources and environment:
 Commerce,International affairs,Deferral of income from controlled foreign corporations,1989,,750,,,Agriculture
 Commerce,Commerce and Housing,Deferral of income from installment sales,1989,Deferral of income from post 1987 installment sales,170,500,,Agriculture
-Interest on Debt,Interest,Deferral of interest on US savings bonds,1989,Deferral of interest on savings bonds,,1070,,Income security:
+Interest on Debt,Interest,Deferral of interest on US savings bonds,1989,Deferral of interest on savings bonds,,960,,Income security:
 Transportation,Transportation,Deferral of tax on shipping companies,1989,,115,,,Commerce and housing credit:
-"Social Security, Unemployment & Labor",Income security,Earned income tax credit,1989,Earned income credit,,2045,,Veterans benefits and services:
+"Social Security, Unemployment & Labor",Income security,Earned income tax credit,1989,Earned income credit,,1780,,Veterans benefits and services:
 Education,"Education, training, employment, and social services",Employer provided child care exclusion,1989,Exclusion of employer provided child care,,200,,Income security:
 Energy & Environment,Energy,Energy credit for intercity buses,1989,,,,,Income security:
 Energy & Environment,Energy,Exception from passive loss limitation for working interests in oil and gas properties,1989,,,135,,Income security:
@@ -1546,7 +1546,7 @@ Housing & Community,"Education, training, employment, and social services",Exclu
 Medicare & Health,Health,Exclusion of employer contributions for medical insurance premiums and medical care,1989,,,26550,,"Education, training, employment, and social services:"
 "Social Security, Unemployment & Labor",Income security,Exclusion of employer provided death benefits,1989,,,20,,Commerce and housing credit:
 Education,"Education, training, employment, and social services",Exclusion of employer-provided educational assistance,1989,,,190,,Commerce and housing credit:
-Veterans Benefits,Veterans' benefits and services,Exclusion of GI bill benefits,1989,,,45,,Commerce and housing
+Veterans Benefits,Veterans' benefits and services,Exclusion of GI bill benefits,1989,,,55,,Commerce and housing
 International affairs,International affairs,Exclusion of income earned abroad by US citizens,1989,,,1155,,"Education, training, employment, and social services:"
 Commerce,International affairs,Exclusion of income of foreign sales corporations,1989,,525,,,GENERAL PURPOSE FISCAL ASSISTANCE
 Housing & Community,Community and regional development,"Exclusion of interest for airport, dock, and similar bonds",1989,"Exclusion of interest on IDBs for airports, docks and sports and convention facilities",715,,,General purpose fiscal assistance:
@@ -1554,7 +1554,7 @@ Education,"Education, training, employment, and social services",Exclusion of in
 Energy & Environment,Energy,Exclusion of interest on energy facility bonds,1989,Exclusion of interest on State and local industrial development bonds for certain energy facilities,315,,,Health
 Medicare & Health,Health,Exclusion of interest on hospital construction bonds,1989,Exclusion of interest on State and local debt for private nonprofit health facilities,,2430,,Energy
 "Social Security, Unemployment & Labor",Commerce and Housing,Exclusion of interest on life insurance savings,1989,,145,6085,,Natural resources and environment:
-Government,General purpose fiscal assistance,Exclusion of interest on public purpose State and local bonds,1989,Exclusion of interest on general purpose State and local debt ,2075,9190,,Community and Regional Development
+Government,General purpose fiscal assistance,Exclusion of interest on public purpose State and local bonds,1989,Exclusion of interest on public purpose State and local debt ,2075,9035,,Community and Regional Development
 Education,"Education, training, employment, and social services",Exclusion of interest on savings bonds redeemed to finance educational expenses,1989,Exclusion of interest on savings bonds transferred to educational institutions,,,,International affairs:
 Housing & Community,Commerce and Housing,Exclusion of interest on small issue bonds,1989,Exclusion of interest on small issue industrial development bonds,2600,,,Veterans benefits and services:
 Housing & Community,Commerce and Housing,Exclusion of interest on State and local debt for rental housing,1989,,1220,,,Veterans benefits and services:
@@ -1562,21 +1562,21 @@ Transportation,Transportation,Exclusion of interest on State and local governmen
 Housing & Community,Commerce and Housing,Exclusion of interest on State and local housing bonds for owner-occupied housing,1989,Exclusion of interest on State and local mortgage bonds for owner-occupied housing,,1895,,"Education, training, employment, and social services"
 Energy & Environment,Natural resources and environment,Exclusion of interest on State and local IDBs for pollution control and sewage and waste disposal facilities,1989,,1575,,,"Education, training, employment, and social services:"
 Education,"Education, training, employment, and social services",Exclusion of interest on student loan bonds,1989,Exclusion of interest on State and local student loan bonds,,290,,Health:
-Veterans Benefits,Veterans' benefits and services,Exclusion of interest on veterans housing bonds,1989,Exclusion of interest on State and local debt for veterans housing,,240,,"Education, training, employment, and social services:"
-Veterans Benefits,Income security,Exclusion of military disability pensions,1989,,,110,,"Education, training, employment, and social services:"
-"Social Security, Unemployment & Labor",Income security,Exclusion of other employee benefits: Premiums on accident and disability insurance,1989,,,130,,Agriculture:
-"Social Security, Unemployment & Labor",Income security,Exclusion of other employee benefits: Premiums on group term life insurance,1989,,,2565,,Commerce and housing credit:
+Veterans Benefits,Veterans' benefits and services,Exclusion of interest on veterans housing bonds,1989,Exclusion of interest on State and local debt for veterans housing,,255,,"Education, training, employment, and social services:"
+Veterans Benefits,Income security,Exclusion of military disability pensions,1989,,,105,,"Education, training, employment, and social services:"
+"Social Security, Unemployment & Labor",Income security,Exclusion of other employee benefits: Premiums on accident and disability insurance,1989,,,125,,Agriculture:
+"Social Security, Unemployment & Labor",Income security,Exclusion of other employee benefits: Premiums on group term life insurance,1989,,,2460,,Commerce and housing credit:
 Housing & Community,"Education, training, employment, and social services",Exclusion of parsonage allowances,1989,,,175,,National defense:
-"Social Security, Unemployment & Labor",Income security,Exclusion of public assistance benefits,1989,,,355,,Energy:
+"Social Security, Unemployment & Labor",Income security,Exclusion of public assistance benefits,1989,,,340,,Income security:
 "Social Security, Unemployment & Labor",Income security,Exclusion of railroad retirement system benefits,1989,,,275,,Natural resources and environment
 Education,"Education, training, employment, and social services",Exclusion of scholarship and fellowship income (normal tax method),1989,,,640,,Commerce and housing
-"Social Security, Unemployment & Labor",Social Security,Exclusion of social security benefits: Social Security benefits for disabled workers,1989,Exclusion of social security benefits: Disability insurance benefits,,1145,,Commerce and housing
-"Social Security, Unemployment & Labor",Social Security,Exclusion of social security benefits: Social Security benefits for retired workers ,1989,Exclusion of social security benefits: OASI benefits for retired workers,,15680,,Energy
-"Social Security, Unemployment & Labor",Social Security,"Exclusion of social security benefits: Social Security benefits for spouses, dependents and survivors",1989,Exclusion of social security benefits: Benefits for dependents and survivors ,,3110,,Energy:
+"Social Security, Unemployment & Labor",Social Security,Exclusion of social security benefits: Social Security benefits for disabled workers,1989,Exclusion of social security benefits: Disability insurance benefits,,1105,,Commerce and housing
+"Social Security, Unemployment & Labor",Social Security,Exclusion of social security benefits: Social Security benefits for retired workers ,1989,Exclusion of social security benefits: OASI benefits for retired workers,,14840,,Energy
+"Social Security, Unemployment & Labor",Social Security,"Exclusion of social security benefits: Social Security benefits for spouses, dependents and survivors",1989,Exclusion of social security benefits: Benefits for dependents and survivors ,,2940,,Energy:
 "Social Security, Unemployment & Labor",Income security,Exclusion of special benefits for disabled coal miners,1989,,,110,,"Education, training, employment, and social services:"
 Medicare & Health,Health,Exclusion of untaxed Medicare benefits,1989,,,5965,,"Education, training, employment, and social services:"
-Veterans Benefits,Veterans' benefits and services,Exclusion of veterans death benefits and disability compensation,1989,Exclusion of veterans disability compensation.,,1615,,"Education, training, employment, and social services:"
-Veterans Benefits,Veterans' benefits and services,Exclusion of veterans pensions,1989,,,75,,Commerce and housing credit:
+Veterans Benefits,Veterans' benefits and services,Exclusion of veterans death benefits and disability compensation,1989,Exclusion of veterans disability compensation.,,1490,,"Education, training, employment, and social services:"
+Veterans Benefits,Veterans' benefits and services,Exclusion of veterans pensions,1989,,,80,,Commerce and housing credit:
 "Social Security, Unemployment & Labor",Income security,Exclusion of workers' compensation benefits,1989,Exclusion of workmen's compensation benefits.........,,2760,,Commerce and housing
 Housing & Community,Community and regional development,Exemption of certain mutuals' and cooperatives' income,1989,,725,,,Commerce and housing
 Housing & Community,Commerce and Housing,Exemption of credit union income,1989,,445,,,Transportation:
@@ -1589,7 +1589,7 @@ Energy & Environment,Energy,Expensing of exploration and development costs: Oil 
 Energy & Environment,Energy,Expensing of exploration and development costs: Other fuels,1989,,35,,,"Education, training, employment, and social services:"
 Energy & Environment,Natural resources and environment,Expensing of multiperiod timber growing costs,1989,,180,130,,Agriculture:
 Science,"General science, space, and technology",Expensing of research and experimentation expenditures,1989,Expensing of research and development expenditures,1720,30,,General purpose fiscal assistance:
-Housing & Community,Income security,Extending tax exempt organization status to voluntary employee beneficiary and other associations,1989,Exclusion of income earned by voluntary employee beneficiary & other associations,,380,,General purpose fiscal assistance:
+Housing & Community,Income security,Extending tax exempt organization status to voluntary employee beneficiary and other associations,1989,Exclusion of income earned by voluntary employee beneficiary & other associations,,350,,General purpose fiscal assistance:
 Housing & Community,Community and regional development,Five-year amortization for housing rehabilitation,1989,,10,5,,Commerce and housing credit:
 "Social Security, Unemployment & Labor",Income security,Income of trusts to finance supplementary unemployment benefits,1989,,,30,,"Education, training, employment, and social services"
 International affairs,International affairs,Interest allocation rules exception for certain financial operations,1989,Certain nonfinancial institutions operations interest allocation rules exception,65,,,"Education, training, employment, and social services:"
@@ -1597,10 +1597,10 @@ International affairs,International affairs,Inventory property sales source rule
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1989,,40,160,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Investment credit for ESOPs,1989,,145,,,"Education, training, employment, and social services:"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than  historic),1989,,70,60,,Income security:
-Commerce,Commerce and Housing,"Investment credit, other than ESOP's, rehabilitation of structures, energy property, and reforestation expenditures",1989,,5860,795,,Income security:
-"Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,1989,,,5960,,Energy
-"Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1989,,,1470,,Energy
-"Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1989,,,45085,,Community and regional development:
+Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitation of structures, energy property, and reforestation expenditures",1989,,5860,795,,Income security:
+"Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,1989,,,5440,,Energy
+"Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1989,,,1325,,Energy
+"Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1989,,,42805,,Community and regional development:
 Commerce,Commerce and Housing,Ordinary income treatment of loss from small business corporation stock sale,1989,,,30,,"Education, training, employment, and social services:"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1989,,,395,,"Education, training, employment, and social services"
 Commerce,Commerce and Housing,Permanent exceptions from imputed interest rules,1989,,,110,,Commerce and housing:
@@ -1610,14 +1610,14 @@ Housing & Community,Commerce and Housing,Small life insurance company deduction,
 Housing & Community,Commerce and Housing,Special alternative tax on small property and casualty insurance companies,1989,,35,,,Commerce and housing
 Medicare & Health,Health,Special Blue Cross/Blue Shield deduction,1989,,55,,,Commerce and housing:
 "Social Security, Unemployment & Labor",Income security,Special ESOP rules,1989,Special ESOP rules (other than investment credit),580,15,,Commerce and housing credit:
-Housing & Community,Commerce and Housing,Special merger rules for financial institutions,1989,3885,,,,Commerce and housing
+Housing & Community,Commerce and Housing,Special merger rules for financial institutions,1989,,3885,,,Commerce and housing
 Energy & Environment,Natural resources and environment,Special rules for mining reclamation reserves,1989,,45,5,,Energy:
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,1989,,,12310,,Commerce and housing:
 Science,"General science, space, and technology",Suspension of the allocation of research and experimentation expenditures,1989,,,,,Commerce and housing credit:
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Targeted jobs credit,1989,,300,40,,Commerce and housing credit:
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,1989,,1910,,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,1989,,,,,Natural resources and environment
-"Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,1989,,,85,,Income security
+"Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,1989,,,75,,Income security
 Commerce,Commerce and Housing,Tax exemption of certain insurance companies owned by tax-exempt organizations,1989,Tax exemption of certain insurance companies,25,,,Income security:
 Energy & Environment,Natural resources and environment,Tax incentives for preservation of historic structures,1989,,45,95,,Health:
 Housing & Community,Commerce and Housing,Treatment of Alaska Native Corporations,1989,,660,,,Commerce and housing credit:
@@ -1726,7 +1726,7 @@ International affairs,International affairs,Inventory property sales source rule
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1990,,40,170,,"Education, training, employment, and social services:"
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Investment credit for ESOPs,1990,,85,,,"Education, training, employment, and social services"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than  historic),1990,,110,435,,Income security
-Commerce,Commerce and Housing,"Investment credit, other than ESOP's, rehabilitation of structures, energy property, and reforestation expenditures",1990,,2750,,,Income security:
+Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitation of structures, energy property, and reforestation expenditures",1990,,2750,,,Income security:
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,1990,,,6620,,"General science, space, and technology:"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1990,,,1460,,Energy
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1990,,,45385,,"Education, training, employment, and social services:"
@@ -2823,7 +2823,7 @@ Veterans Benefits,Veterans' benefits and services,Exclusion of veterans pensions
 Housing & Community,Community and regional development,Exemption of certain mutuals' and cooperatives' income,1999,,60,,,International affairs
 Housing & Community,Commerce and Housing,Exemption of credit union income,1999,,1470,,,Transportation:
 Food & Agriculture,Agriculture,Expensing of certain capital outlays,1999,,10,60,,Interest:
-Food & Agriculture,Agriculture,Expensing of certain multiperiod production costs,1999,,,10,,Commerce and housing credit:
+Food & Agriculture,Agriculture,Expensing of certain multiperiod production costs,1999,,10,75,,Commerce and housing credit:
 Commerce,Commerce and Housing,Expensing of certain small investments (normal tax method),1999,,395,1070,,International affairs:
 Housing & Community,"Education, training, employment, and social services",Expensing of costs of removing certain architectural barriers to the handicapped,1999,,0,,,Agriculture:
 Housing & Community,Community and regional development,Expensing of environmental remediation costs,1999,,95,20,,Energy
