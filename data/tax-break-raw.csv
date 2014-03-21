@@ -1,7 +1,7 @@
 NPP Category,OMB Category,Tax Expenditure Name,Year,Original Name,Corporate,Individual,Total for 1981 and 1982,Original OMB Category
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1974,Additional  exemption for over 63,,1150,,
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1974,,,15,,
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1974,Capital gain: corporate (other than farming and timber),745,,,
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1974,Capital gain: corporate (other than farming and timber),745,,,
 Commerce,Agriculture,Capital gains treatment of certain income,1974,,30,520,,Energy
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1974,Timber: capital gian treatment of certain income,130,55,,Health
 Energy & Environment,Energy,Capital gains treatment of royalties on coal,1974,,5,,,Commerce and housing credit
@@ -69,7 +69,7 @@ Commerce,International affairs,Special rate for Western Hemisphere trade corpora
 Government,Commerce and Housing,Surtax exemption (through 1978),1974,"$25,000 corporate surtax exemption",3270,,,Commerce and housing credit
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1975,Additional  exemption for over 64,,1100,,Veterans benefits and services
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1975,,,20,,Transportation
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1975,Capital gain: corporate (other than farming and timber),695,,,
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1975,Capital gain: corporate (other than farming and timber),695,,,
 Commerce,Agriculture,Capital gains treatment of certain income,1975,,30,455,,Commerce and housing credit
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1975,,145,60,,Health
 Energy & Environment,Energy,Capital gains treatment of royalties on coal,1975,,10,40,,Commerce and housing credit
@@ -144,7 +144,7 @@ Commerce,International affairs,Special rate for Western Hemisphere trade corpora
 Government,Commerce and Housing,Surtax exemption (through 1978),1975,Corporate surtax exemption,3345,,,Commerce and housing credit
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1976,Additional  exemption for over 65 ,,1145,,Commerce and housing credit
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1976,,,20,,
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1976,Capital gain: Individual (other than farming and timber),545,7320,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1976,Capital gain: Individual (other than farming and timber),545,7320,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1976,,10,315,,Commerce and housing credit
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1976,,290,95,,Health
 Energy & Environment,Energy,Capital gains treatment of royalties on coal,1976,,15,40,,Commerce and housing credit
@@ -224,7 +224,7 @@ Government,Commerce and Housing,Surtax exemption (through 1978),1976,Corporate s
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1977,,,1140,,Commerce and housing credit
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1977,,,20,,
 Commerce,Commerce and Housing,Asset depreciation range,1977,,1955,100,,Commerce and housing
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1977,"Capital gains (other than agriculture, timber, iron ore, and coal)",520,6910,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1977,"Capital gains (other than agriculture, timber, iron ore, and coal)",520,6910,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1977,Capital gains treatment of certain ordinary income,10,330,,Commerce and housing credit
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1977,,185,55,,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1977,,5,5,,Income security
@@ -311,7 +311,7 @@ Energy & Environment,Natural resources and environment,Tax incentives for preser
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1978,,,25,,
 Energy & Environment,Energy,"Alternative, conservation and new technology credits",1978,,,,,Energy
 Commerce,Commerce and Housing,Asset depreciation range,1978,,2130,110,,Commerce and housing
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1978,"Capital gains (other than agriculture, timber, iron ore, and coal)",525,7125,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1978,"Capital gains (other than agriculture, timber, iron ore, and coal)",525,7125,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1978,,10,350,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1978,,275,75,,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1978,,5,5,,Income security
@@ -392,8 +392,8 @@ Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitati
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1978,,,9940,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Self-Employed plans,1978,Net exclusion of pension contributions and earnings: Plans for self-employed and others,,1650,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1978,,,780,,Commerce and housing
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1978,,,,,Energy
-Energy & Environment,Energy,Residential energy credits:,1978,,,,,Natural resources and environment
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1978,,,,,Energy
+Energy & Environment,Energy,Residential energy credits,1978,,,,,Natural resources and environment
 Commerce,International affairs,Special rate for Western Hemisphere trade corporations,1978,,25,,,Commerce and housing
 Housing & Community,Commerce and Housing,Surtax exemption (through 1978),1978,,5225,,,Agriculture
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Targeted jobs credit,1978,,,,,Energy
@@ -404,7 +404,7 @@ Energy & Environment,Natural resources and environment,Tax incentives for preser
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1979,,,35,,Income security
 Energy & Environment,Energy,"Alternative, conservation and new technology credits",1979,,220,,,
 Commerce,Commerce and Housing,Asset depreciation range,1979,,2460,130,,Commerce and housing
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1979,"Capital gains (other than agriculture, timber, iron ore, and coal)",655,10190,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1979,"Capital gains (other than agriculture, timber, iron ore, and coal)",655,10190,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1979,,15,365,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1979,,385,110,,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1979,,10,10,,Income security
@@ -485,8 +485,8 @@ Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitati
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1979,,,11335,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Self-Employed plans,1979,Net exclusion of pension contributions and earnings: Plans for self-employed and others,,1765,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1979,,,935,,Commerce and housing
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1979,,3285,,,Energy
-Energy & Environment,Energy,Residential energy credits:,1979,,,645,,Natural resources and environment
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1979,,3285,,,Energy
+Energy & Environment,Energy,Residential energy credits,1979,,,645,,Natural resources and environment
 Commerce,International affairs,Special rate for Western Hemisphere trade corporations,1979,,15,,,Commerce and housing
 Housing & Community,Commerce and Housing,Surtax exemption (through 1978),1979,,3110,,,
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Targeted jobs credit,1979,,15,,,Energy
@@ -495,13 +495,13 @@ Commerce,General purpose fiscal assistance,Tax credit for corporations receiving
 Energy & Environment,Natural resources and environment,Tax incentives for preservation of historic structures,1979,,5,10,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1980,,,2040,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1980,,,30,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,1980,,,,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1980,,,,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1980,,5,,,
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1980,,190,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1980,,140,10,,"Education, training, employment, and social services"
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1980,,,,,Commerce and housing credit
 Commerce,Commerce and Housing,Asset depreciation range,1980,,2880,150,,Commerce and housing
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1980,"Capital gains (other than agriculture, timber, iron ore, and coal)",715,15415,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1980,"Capital gains (other than agriculture, timber, iron ore, and coal)",715,15415,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1980,,20,385,,
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1980,,420,120,,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1980,,10,10,,Commerce and housing credit
@@ -589,7 +589,7 @@ Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitati
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1980,,,19785,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Self-Employed plans,1980,Net exclusion of pension contributions and earnings: Plans for self-employed and others,,1925,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1980,,,1030,,Commerce and housing
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1980,,7210,,,Energy
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1980,,7210,,,Energy
 Energy & Environment,Energy,Residential energy credits: Conservation Incentives,1980,,,430,,Natural resources and environment
 Energy & Environment,Energy,Residential energy credits: Supply Incentives,1980,,,55,,Natural resources and environment
 Housing & Community,Commerce and Housing,Surtax exemption (through 1978),1980,,110,,,
@@ -599,12 +599,12 @@ Commerce,General purpose fiscal assistance,Tax credit for corporations receiving
 Energy & Environment,Natural resources and environment,Tax incentives for preservation of historic structures,1980,,10,25,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1981,,,,2250,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1981,,,,30,Income security
-Energy & Environment,Energy,Alcohol fuel credit,1981,,,,5,Health
+Energy & Environment,Energy,Alcohol fuel credits,1981,,,,5,Health
 Energy & Environment,Energy,Alternative fuel production credit,1981,,,,25,
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1981,,,,220,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1981,,,,180,"Education, training, employment, and social services"
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1981,,,,20,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1981,"Capital gains (other than agriculture, timber, iron ore, and coal)",,,17965,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1981,"Capital gains (other than agriculture, timber, iron ore, and coal)",,,17965,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1981,,,,425,Energy
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1981,,,,585,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1981,,,,20,Commerce and housing credit
@@ -691,7 +691,7 @@ Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitati
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1981,,,,23390,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Self-Employed plans,1981,Net exclusion of pension contributions and earnings: Plans for self-employed and others,,,2170,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1981,,,,1045,Commerce and housing
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1981,,,,6555,Energy
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1981,,,,6555,Energy
 Housing & Community,Commerce and Housing,Reinvestment of dividends in public utility stock,1981,,,,,Natural resources and environment
 Energy & Environment,Energy,Residential energy credits: Conservation Incentives,1981,,,,425,Natural resources and environment
 Energy & Environment,Energy,Residential energy credits: Supply Incentives,1981,,,,150,Natural resources and environment
@@ -702,12 +702,12 @@ Commerce,General purpose fiscal assistance,Tax credit for corporations receiving
 Energy & Environment,Natural resources and environment,Tax incentives for preservation of historic structures,1981,,,,60,(blank)
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1982,,,,2385,Agriculture
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1982,,,,35,Income security
-Energy & Environment,Energy,Alcohol fuel credit,1982,,,,5,Health
+Energy & Environment,Energy,Alcohol fuel credits,1982,,,,5,Health
 Energy & Environment,Energy,Alternative fuel production credit,1982,,,,15,Transportation
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1982,,,,220,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1982,,,,205,"Education, training, employment, and social services"
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1982,,,,75,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1982,"Capital gains (other than agriculture, timber, iron ore, and coal)",,,18020,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1982,"Capital gains (other than agriculture, timber, iron ore, and coal)",,,18020,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1982,,,,610,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1982,,,,335,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1982,,,,20,Commerce and housing credit
@@ -792,7 +792,7 @@ Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitati
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1982,,,,45280,Health
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Self-Employed plans,1982,Net exclusion of pension contributions and earnings: Plans for self-employed and others,,,2835,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1982,,,,1070,Commerce and housing
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1982,,,,5680,Energy
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1982,,,,5680,Energy
 Housing & Community,Commerce and Housing,Reinvestment of dividends in public utility stock,1982,,,,130,Natural resources and environment
 Energy & Environment,Energy,Residential energy credits: Conservation Incentives,1982,,,,360,Natural resources and environment
 Energy & Environment,Energy,Residential energy credits: Supply Incentives,1982,,,,250,Natural resources and environment
@@ -807,12 +807,12 @@ Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipmen
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1983,,120,575,,Energy
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1983,,,2505,,Transportation
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1983,,,45,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,1983,,,,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1983,,,,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1983,,10,,,Transportation
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1983,,45,5,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1983,,215,35,,
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1983,,15,105,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1983,"Capital gains (other than agriculture, timber, iron ore, and coal)",1770,15335,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1983,"Capital gains (other than agriculture, timber, iron ore, and coal)",1770,15335,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1983,,30,585,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1983,,275,95,,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1983,,5,10,,Commerce and housing credit
@@ -900,7 +900,7 @@ Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitati
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1983,Keoghs,,1460,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1983,,,46585,,Health
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1983,,,1025,,Commerce and housing
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1983,,4500,,,Energy
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1983,,4500,,,Energy
 Housing & Community,Commerce and Housing,Reinvestment of dividends in public utility stock,1983,,,365,,Natural resources and environment
 Energy & Environment,Energy,Residential energy credits: Conservation Incentives,1983,,,285,,Natural resources and environment
 Energy & Environment,Energy,Residential energy credits: Supply Incentives,1983,,,325,,
@@ -916,12 +916,12 @@ Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipmen
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1984,,150,530,,Energy
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1984,,,2520,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1984,,,40,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,1984,,,,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1984,,,,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1984,,10,,,Transportation
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1984,,10,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1984,,195,25,,
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1984,,20,160,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1984,"Capital gains (other than agriculture, timber, iron ore, and coal)",1440,17615,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1984,"Capital gains (other than agriculture, timber, iron ore, and coal)",1440,17615,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1984,,20,550,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1984,,215,80,,Income security
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1984,,,15,,Commerce and housing credit
@@ -1012,7 +1012,7 @@ Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitati
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1984,Keoghs,,1410,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1984,,,44050,,Health
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1984,,,1060,,Commerce and housing
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1984,,4910,,,Energy
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1984,,4910,,,Energy
 Housing & Community,Commerce and Housing,Reinvestment of dividends in public utility stock,1984,,,415,,General purpose fiscal assistance
 Energy & Environment,Energy,Residential energy credits: Conservation Incentives,1984,,,270,,Natural resources and environment
 Energy & Environment,Energy,Residential energy credits: Supply Incentives,1984,,,325,,Natural resources and environment
@@ -1029,12 +1029,12 @@ Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipmen
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1985,,165,635,,Energy
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1985,,,3005,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1985,,,35,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,1985,,,10,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1985,,,10,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1985,,10,,,Transportation
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1985,,,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1985,,175,95,,
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1985,,25,210,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1985,"Capital gains (other than agriculture, timber, iron ore, and coal)",1540,25885,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1985,"Capital gains (other than agriculture, timber, iron ore, and coal)",1540,25885,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1985,,30,575,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1985,,265,85,,Income security
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1985,,,20,,Commerce and housing credit
@@ -1122,7 +1122,7 @@ Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitati
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1985,Keoghs,,1960,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1985,,,48525,,Community and regional development
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1985,,,1110,,Commerce and housing
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1985,,5015,,,General government
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1985,,5015,,,General government
 Housing & Community,Commerce and Housing,Reinvestment of dividends in public utility stock,1985,,,450,,Natural resources and environment
 Energy & Environment,Energy,Residential energy credits: Conservation Incentives,1985,,,245,,Natural resources and environment
 Energy & Environment,Energy,Residential energy credits: Supply Incentives,1985,,,330,,Natural resources and environment
@@ -1141,12 +1141,12 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1986,,,,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1986,,,2750,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1986,,,35,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,1986,,5,,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1986,,5,,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1986,,20,,,Transportation
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1986,,,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1986,,265,15,,
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1986,,25,220,,Social Security
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1986,"Capital gains (other than agriculture, timber, iron ore, and coal)",2190,28820,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1986,"Capital gains (other than agriculture, timber, iron ore, and coal)",2190,28820,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1986,,35,605,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1986,,320,90,,Income security
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1986,,,15,,Commerce and housing credit
@@ -1238,7 +1238,7 @@ Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitati
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1986,Keoghs,,2135,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1986,,,48950,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1986,,,1220,,Commerce and housing
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1986,,4655,,,Energy
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1986,,4655,,,Energy
 Housing & Community,Commerce and Housing,Reinvestment of dividends in public utility stock,1986,,,280,,Natural resources and environment
 Energy & Environment,Energy,Residential energy credits: Conservation Incentives,1986,,,190,,Commerce and housing credit
 Energy & Environment,Energy,Residential energy credits: Supply Incentives,1986,,,315,,Natural resources and environment
@@ -1260,12 +1260,12 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1987,,,1630,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1987,,,1205,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1987,,,15,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,1987,,5,,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1987,,5,,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1987,,10,,,Transportation
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1987,,,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1987,,140,10,,Social Security
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1987,,20,200,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1987,"Capital gains (other than agriculture, timber, iron ore, and coal)",910,61285,,Commerce and housing credit
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1987,"Capital gains (other than agriculture, timber, iron ore, and coal)",910,61285,,Commerce and housing credit
 Commerce,Agriculture,Capital gains treatment of certain income,1987,,10,125,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1987,,145,60,,Income security
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1987,,,10,,Energy
@@ -1359,7 +1359,7 @@ Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitati
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1987,Keoghs,,2355,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1987,,,45335,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1987,,,560,,Community and regional development
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1987,,3710,,,Energy
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1987,,3710,,,Energy
 Energy & Environment,Energy,Residential energy credits: Conservation Incentives,1987,,,,,Natural resources and environment
 Energy & Environment,Energy,Residential energy credits: Supply Incentives,1987,,,45,,Natural resources and environment
 Housing & Community,Commerce and Housing,Safe harbor leasing rules,1987,,1065,,,Community and Regional Development
@@ -1378,12 +1378,12 @@ Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipmen
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1988,,170,130,,Agriculture
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,1988,,,15,,Energy
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1988,,,1535,,Natural resources and environment
-Energy & Environment,Energy,Alcohol fuel credit,1988,,5,,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1988,,5,,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1988,,10,,,General purpose fiscal assistance
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1988,,,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1988,,80,,,
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1988,,20,165,,Commerce and housing credit
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1988,"Capital gains (other than agriculture, timber, iron ore, and coal)",,210,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1988,"Capital gains (other than agriculture, timber, iron ore, and coal)",,210,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1988,,,,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1988,,,,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1988,,,,,Health
@@ -1481,7 +1481,7 @@ Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitati
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1988,,,44180,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1988,,,415,,Commerce and housing
 Commerce,Commerce and Housing,Permanent exceptions from imputed interest rules,1988,,,130,,Commerce and housing credit
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1988,,2815,,,"Natural resources, environment, and energy"
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1988,,2815,,,"Natural resources, environment, and energy"
 Housing & Community,Commerce and Housing,Safe harbor leasing rules,1988,,690,,,Natural resources and environment
 Housing & Community,Commerce and Housing,Small life insurance company deduction,1988,,55,,,Agriculture
 Housing & Community,Commerce and Housing,Small property and casualty insurance company deduction,1988,,15,,,Agriculture
@@ -1504,7 +1504,7 @@ Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipmen
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1989,,1135,605,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,1989,,,10,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1989,,,1260,,Commerce and housing
-Energy & Environment,Energy,Alcohol fuel credit,1989,,,,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1989,,,,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1989,,10,,,Transportation
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1989,,,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1989,,80,,,
@@ -1604,7 +1604,7 @@ Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitati
 Commerce,Commerce and Housing,Ordinary income treatment of loss from small business corporation stock sale,1989,,,30,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1989,,,395,,"Education, training, employment, and social services"
 Commerce,Commerce and Housing,Permanent exceptions from imputed interest rules,1989,,,110,,
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1989,,2875,,,Energy
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1989,,2875,,,Energy
 Housing & Community,Commerce and Housing,Safe harbor leasing rules,1989,,-710,,,Community and Regional Development
 Housing & Community,Commerce and Housing,Small life insurance company deduction,1989,,75,,,Agriculture
 Housing & Community,Commerce and Housing,Special alternative tax on small property and casualty insurance companies,1989,,35,,,Commerce and housing
@@ -1627,12 +1627,12 @@ Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipmen
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1990,,1075,535,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,1990,,,35,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1990,,,1565,,Commerce and housing
-Energy & Environment,Energy,Alcohol fuel credit,1990,,,,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1990,,,,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1990,,10,,,Transportation
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1990,,,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1990,,75,,,
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1990,,35,135,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1990,"Capital gains (other than agriculture, timber, iron ore, and coal)",,,,Commerce and housing credit
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1990,"Capital gains (other than agriculture, timber, iron ore, and coal)",,,,Commerce and housing credit
 Commerce,Agriculture,Capital gains treatment of certain income,1990,,,,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1990,,,,,Energy
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1990,,,,,Commerce and housing credit
@@ -1733,7 +1733,7 @@ Commerce,Commerce and Housing,"Investment credit, other than ESOPs, rehabilitati
 Commerce,Commerce and Housing,Ordinary income treatment of loss from small business corporation stock sale,1990,,,20,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1990,,,410,,
 Commerce,Commerce and Housing,Permanent exceptions from imputed interest rules,1990,,,125,,
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1990,,3080,,,Energy
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1990,,3080,,,Energy
 Housing & Community,Commerce and Housing,Safe harbor leasing rules,1990,,-710,,,Community and Regional Development
 Housing & Community,Commerce and Housing,Small life insurance company deduction,1990,,80,,,Agriculture
 Housing & Community,Commerce and Housing,Special alternative tax on small property and casualty insurance companies,1990,,,,,Commerce and housing
@@ -1756,10 +1756,10 @@ Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipmen
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1991,,935,495,,Transportation
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,1991,,,30,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1991,,,1400,,Commerce and housing
-Energy & Environment,Energy,Alcohol fuel credit,1991,,,,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1991,,,,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1991,,205,50,,Transportation
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1991,,35,145,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1991,"Capital gains (other than agriculture, timber, iron ore, and coal)",,2205,,Agriculture
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1991,"Capital gains (other than agriculture, timber, iron ore, and coal)",,2205,,Agriculture
 Commerce,Agriculture,Capital gains treatment of certain income,1991,,,45,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1991,,,5,,Commerce and housing credit
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1991,,,,,Commerce and housing credit
@@ -1854,7 +1854,7 @@ Energy & Environment,Energy,New technology credit,1991,,75,,,"Education, trainin
 Commerce,Commerce and Housing,Ordinary income treatment of loss from small business corporation stock sale,1991,,,20,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1991,,,430,,
 Commerce,Commerce and Housing,Permanent exceptions from imputed interest rules,1991,,,135,,Agriculture
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1991,,2850,,,Energy
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1991,,2850,,,Energy
 Housing & Community,Commerce and Housing,Small life insurance company deduction,1991,,105,,,Agriculture
 Housing & Community,Commerce and Housing,Special alternative tax on small property and casualty insurance companies,1991,,,,,Commerce and housing
 Medicare & Health,Health,Special Blue Cross/Blue Shield deduction,1991,,135,,,Commerce and housing
@@ -1875,10 +1875,10 @@ Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipmen
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1992,,900,460,,Transportation
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,1992,,,40,,Veterans benefits and services
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1992,,,1560,,Commerce and housing
-Energy & Environment,Energy,Alcohol fuel credit,1992,,10,,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1992,,10,,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1992,,580,100,,Transportation
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1992,,50,135,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1992,"Capital gains (other than agriculture, timber, iron ore, and coal)",,2195,,Agriculture
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1992,"Capital gains (other than agriculture, timber, iron ore, and coal)",,2195,,Agriculture
 Commerce,Agriculture,Capital gains treatment of certain income,1992,,,45,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1992,,,5,,Commerce and housing credit
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1992,,,,,Health
@@ -1973,7 +1973,7 @@ Housing & Community,Community and regional development,Investment credit for reh
 Energy & Environment,Energy,New technology credit,1992,,50,,,"Education, training, employment, and social services"
 Commerce,Commerce and Housing,Ordinary income treatment of loss from small business corporation stock sale,1992,,,20,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Parental personal exemption for students age 19 or over,1992,,,485,,"Education, training, employment, and social services"
-Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income:",1992,,2980,,,Energy
+Commerce,Commerce and Housing,"Reduced rates on the first $100,000 of corporate income",1992,,2980,,,Energy
 Housing & Community,Commerce and Housing,Small life insurance company deduction,1992,,110,,,
 Medicare & Health,Health,Special Blue Cross/Blue Shield deduction,1992,,135,,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Special ESOP rules,1992,Special ESOP rules (other than investment credit),2140,,,Commerce and housing credit
@@ -1994,11 +1994,11 @@ Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipmen
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1993,,780,415,,Transportation
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,1993,,,40,,Energy
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1993,,,1510,,Commerce and housing
-Energy & Environment,Energy,Alcohol fuel credit,1993,,5,10,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1993,,5,10,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1993,,640,120,,Transportation
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1993,,100,100,,"General science, space, and technology"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,1993,,,60,,Energy
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1993,"Capital gains (other than agriculture, timber, iron ore, and coal)",,5510,,Natural resources and environment
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1993,"Capital gains (other than agriculture, timber, iron ore, and coal)",,5510,,Natural resources and environment
 Commerce,Agriculture,Capital gains treatment of certain income,1993,,,115,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1993,,,10,,Commerce and housing credit
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1993,,,,,Health
@@ -2118,11 +2118,11 @@ Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipmen
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1994,,705,440,,Veterans benefits and services
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,1994,,,30,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1994,,,1470,,Commerce and housing
-Energy & Environment,Energy,Alcohol fuel credit,1994,,5,10,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1994,,5,10,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1994,,760,140,,Social Security
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1994,,85,100,,"General science, space, and technology"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,1994,,,125,,Energy
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1994,"Capital gains (other than agriculture, timber, iron ore, and coal)",,5745,,Commerce and housing credit
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1994,"Capital gains (other than agriculture, timber, iron ore, and coal)",,5745,,Commerce and housing credit
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,1994,,,,,"Education, training, employment, and social services"
 Commerce,Agriculture,Capital gains treatment of certain income,1994,,,120,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1994,,,10,,Commerce and housing credit
@@ -2242,11 +2242,11 @@ Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipmen
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),1995,,660,385,,Commerce and housing credit
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,1995,,,25,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1995,,,1305,,Commerce and housing
-Energy & Environment,Energy,Alcohol fuel credit,1995,,5,5,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1995,,5,5,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1995,,820,150,,General government
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1995,,85,100,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,1995,,,105,,Energy
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1995,"Capital gains (other than agriculture, timber, iron ore, and coal)",,7125,,Commerce and housing credit
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1995,"Capital gains (other than agriculture, timber, iron ore, and coal)",,7125,,Commerce and housing credit
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,1995,,,0,,"Education, training, employment, and social services"
 Commerce,Agriculture,Capital gains treatment of certain income,1995,,,145,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1995,,,15,,Commerce and housing
@@ -2366,11 +2366,11 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,1996,,,25,,Energy
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1996,,,1470,,Natural resources and environment
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,1996,Adoption assistance,,,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,1996,,5,5,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1996,,5,5,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1996,,535,35,,Social Security
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1996,,90,105,,Commerce and housing credit
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,1996,,,70,,Energy
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1996,"Capital gains (other than agriculture, timber, iron ore, and coal)",,7990,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1996,"Capital gains (other than agriculture, timber, iron ore, and coal)",,7990,,Income security
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,1996,,,,,"Education, training, employment, and social services"
 Commerce,Agriculture,Capital gains treatment of certain income,1996,,,165,,Natural resources and environment
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1996,,,15,,Commerce and housing
@@ -2459,7 +2459,7 @@ Commerce,Commerce and Housing,Graduated corporation income tax rate (normal tax 
 International affairs,International affairs,Inventory property sales source rules exception,1996,,1400,,,Business investment
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1996,,20,25,,Health
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),1996,,15,65,,Income security
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,1996,Medical Savings Accounts,,,,Commerce and housing
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,1996,Medical Savings Accounts,,,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,1996,,,8025,,Commerce and housing credit
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1996,,,3030,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1996,,,55410,,"Education, training, employment, and social services"
@@ -2487,11 +2487,11 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,1997,,,25,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1997,,,1485,,Commerce and housing
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,1997,Adoption assistance,,10,,Health
-Energy & Environment,Energy,Alcohol fuel credit,1997,,5,5,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1997,,5,5,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1997,,565,35,,General government
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1997,,95,105,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,1997,,,40,,Energy
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1997,"Capital gains (other than agriculture, timber, iron ore, and coal)",,8230,,International affairs
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1997,"Capital gains (other than agriculture, timber, iron ore, and coal)",,8230,,International affairs
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,1997,,,,,"Education, training, employment, and social services"
 Commerce,Agriculture,Capital gains treatment of certain income,1997,,,170,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1997,,,15,,Commerce and housing
@@ -2580,7 +2580,7 @@ Commerce,Commerce and Housing,Graduated corporation income tax rate (normal tax 
 International affairs,International affairs,Inventory property sales source rules exception,1997,,1500,,,Health
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1997,,20,30,,Health
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),1997,,15,65,,Income security
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,1997,Medical Savings Accounts,,10,,Commerce and housing
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,1997,Medical Savings Accounts,,10,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,1997,,,8345,,Income security
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1997,,,3200,,Energy
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1997,,,55810,,Energy
@@ -2608,11 +2608,11 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,1998,,,30,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1998,,,1690,,Commerce and housing
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,1998,Adoption assistance,,125,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,1998,,10,5,,Health
+Energy & Environment,Energy,Alcohol fuel credits,1998,,10,5,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1998,,815,45,,General purpose fiscal assistance
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1998,,120,85,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,1998,,,50,,Energy
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1998,,,38275,,International affairs
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1998,,,38275,,International affairs
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,1998,,,0,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,1998,,,17475,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,1998,,,605,,Commerce and housing
@@ -2708,7 +2708,7 @@ International affairs,International affairs,Inventory property sales source rule
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1998,,,10,,Health
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),1998,,15,15,,Income security
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,1998,,,110,,Income security
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,1998,Medical Savings Accounts,,15,,Commerce and housing
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,1998,Medical Savings Accounts,,15,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,1998,,,10565,,Income security
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1998,,,3930,,Energy
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1998,,,82215,,Energy
@@ -2738,11 +2738,11 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,1999,,,30,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,1999,,,1785,,Commerce and housing
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,1999,Adoption assistance,,125,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,1999,,10,5,,Transportation
+Energy & Environment,Energy,Alcohol fuel credits,1999,,10,5,,Transportation
 Energy & Environment,Energy,Alternative fuel production credit,1999,,975,50,,General purpose fiscal assistance
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1999,,120,80,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,1999,,,40,,Natural resources and environment
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",1999,,,39405,,International affairs
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1999,,,39405,,International affairs
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,1999,,,5,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,1999,,,18000,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,1999,,,635,,Commerce and housing
@@ -2839,7 +2839,7 @@ International affairs,International affairs,Inventory property sales source rule
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,1999,,,10,,Health
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),1999,,15,10,,Income security
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,1999,,,2170,,General government
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,1999,Medical Savings Accounts,,20,,Commerce and housing
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,1999,Medical Savings Accounts,,20,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,1999,,,13350,,Income security
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,1999,,,5230,,Energy
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,1999,,,83780,,Energy
@@ -2868,12 +2868,12 @@ Commerce,Commerce and Housing,Accelerated depreciation of machinery and equipmen
 Housing & Community,Commerce and Housing,Accelerated depreciation on rental housing (normal tax method),2000,,340,4400,,
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,2000,,0,30,,Natural resources and environment
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,2000,Adoption assistance,0,120,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,2000,,10,10,,Health
+Energy & Environment,Energy,Alcohol fuel credits,2000,,10,10,,Health
 Energy & Environment,Energy,Alternative fuel production credit,2000,,930,40,,General government
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),2000,,120,80,,"Education, training, employment, and social services"
 Housing & Community,"Education, training, employment, and social services",Assistance for adopted foster children,2000,,0,160,,Commerce and housing credit
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,2000,,0,30,,Natural resources and environment
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",2000,,0,40520,,International affairs
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",2000,,0,40520,,International affairs
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,2000,,0,40,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,2000,,0,18540,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,2000,,0,700,,Commerce and housing
@@ -2970,7 +2970,7 @@ International affairs,International affairs,Inventory property sales source rule
 Energy & Environment,Natural resources and environment,Investment credit and seven-year amortization for reforestation expenditures,2000,,0,0,,Health
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),2000,,20,10,,Income security
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,2000,,0,2420,,General government
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,2000,Medical Savings Accounts,0,20,,Commerce and housing
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,2000,Medical Savings Accounts,0,20,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,2000,,0,15200,,Income security
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,2000,,0,5500,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contributions and earnings: Employer plans,2000,,0,89120,,Energy
@@ -3001,12 +3001,12 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,2001,,0,40,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,2001,,0,1970,,Commerce and housing
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,2001,,0,130,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,2001,,20,10,,Health
+Energy & Environment,Energy,Alcohol fuel credits,2001,,20,10,,Health
 Energy & Environment,Energy,Alternative fuel production credit,2001,,860,40,,General purpose fiscal assistance
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),2001,,90,40,,"Education, training, employment, and social services"
 Housing & Community,"Education, training, employment, and social services",Assistance for adopted foster children,2001,,0,190,,Commerce and housing credit
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,2001,,0,30,,Natural resources and environment
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",2001,,0,67800,,International affairs
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",2001,,0,67800,,International affairs
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,2001,,0,70,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,2001,,0,19090,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,2001,,0,990,,Commerce and housing
@@ -3103,7 +3103,7 @@ Food & Agriculture,Agriculture,Income averaging for farmers,2001,,0,70,,Health
 International affairs,International affairs,Inventory property sales source rules exception,2001,,1400,0,,"Education, training, employment, and social services"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),2001,,20,10,,
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,2001,,0,2370,,General government
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,2001,Medical Savings Accounts,0,20,,Commerce and housing
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,2001,Medical Savings Accounts,0,20,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: 401(k) plans,2001,,0,44080,,Community and regional development
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,2001,,0,18680,,Income security
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,2001,,0,6160,,Commerce and housing
@@ -3137,12 +3137,12 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,2002,,0,40,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,2002,,0,1890,,Commerce and housing
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,2002,,0,140,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,2002,,20,10,,Health
+Energy & Environment,Energy,Alcohol fuel credits,2002,,20,10,,Health
 Energy & Environment,Energy,Alternative fuel production credit,2002,,1500,60,,General purpose fiscal assistance
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),2002,,90,20,,"Education, training, employment, and social services"
 Housing & Community,"Education, training, employment, and social services",Assistance for adopted foster children,2002,,0,220,,Commerce and housing credit
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,2002,,0,0,,Natural resources and environment
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",2002,,0,56060,,International affairs
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",2002,,0,56060,,International affairs
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,2002,,0,100,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,2002,,0,19670,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,2002,,0,1010,,Natural resources and environment
@@ -3239,7 +3239,7 @@ Food & Agriculture,Agriculture,Income averaging for farmers,2002,,0,70,,Health
 International affairs,International affairs,Inventory property sales source rules exception,2002,,1470,0,,"Education, training, employment, and social services"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),2002,,20,10,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,2002,,0,2180,,General government
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,2002,Medical Savings Accounts,0,20,,Commerce and housing
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,2002,Medical Savings Accounts,0,20,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: 401(k) plans,2002,,0,50830,,Commerce and housing credit
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,2002,,0,19080,,Income security
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,2002,,0,7000,,Commerce and housing
@@ -3274,12 +3274,12 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,2003,,0,40,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,2003,,0,1840,,Natural resources and environment
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,2003,,0,220,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,2003,,20,10,,Health
+Energy & Environment,Energy,Alcohol fuel credits,2003,,20,10,,Health
 Energy & Environment,Energy,Alternative fuel production credit,2003,,1230,50,,General purpose fiscal assistance
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),2003,,100,10,,"Education, training, employment, and social services"
 Housing & Community,"Education, training, employment, and social services",Assistance for adopted foster children,2003,,0,250,,Commerce and housing
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,2003,,0,20,,Natural resources and environment
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",2003,,0,25730,,Commerce and housing
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",2003,,0,25730,,Commerce and housing
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,2003,,0,130,,Natural resources and environment
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,2003,,0,20260,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,2003,,0,1050,,Health
@@ -3376,7 +3376,7 @@ Food & Agriculture,Agriculture,Income averaging for farmers,2003,,0,70,,Health
 International affairs,International affairs,Inventory property sales source rules exception,2003,,1540,0,,"Education, training, employment, and social services"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),2003,,20,10,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,2003,,0,1910,,General government
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,2003,,0,-30,,Budget Function
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,2003,,0,-30,,Budget Function
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: 401(k) plans,2003,,0,51560,,Community and regional development
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,2003,,0,20060,,Income security
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,2003,,0,6020,,Commerce and housing
@@ -3411,13 +3411,13 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the blind,2004,,0,30,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,2004,,0,1700,,Natural resources and environment
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,2004,,0,450,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,2004,,20,10,,Health
+Energy & Environment,Energy,Alcohol fuel credits,2004,,20,10,,Health
 Energy & Environment,Energy,Alternative fuel production credit,2004,,1000,40,,General government
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),2004,,70,10,,"Education, training, employment, and social services"
 Housing & Community,"Education, training, employment, and social services",Assistance for adopted foster children,2004,,0,290,,Commerce and housing
 Energy & Environment,Agriculture,Bio-Diesel and small agri-biodiesel producer tax credits,2004,Bio-Diesel tax credit,0,0,,Commerce and housing credit
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,2004,,0,30,,Energy
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",2004,,0,25150,,Commerce and housing
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",2004,,0,25150,,Commerce and housing
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,2004,,0,160,,Income security
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,2004,,0,29730,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,2004,,0,670,,Health
@@ -3520,7 +3520,7 @@ Food & Agriculture,Agriculture,Income averaging for farmers,2004,,0,40,,Health
 International affairs,International affairs,Inventory property sales source rules exception,2004,,1500,0,,"Education, training, employment, and social services"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),2004,,20,20,,
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,2004,,0,2190,,General government
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,2004,,0,620,,Business investment
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,2004,,0,620,,Business investment
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: 401(k) plans,2004,,0,47730,,Community and Regional Development
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,2004,,0,7450,,Income security
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Keogh plans,2004,,0,8830,,"General science, space, and technology"
@@ -3559,7 +3559,7 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,2005,,0,1850,,Natural resources and environment
 Housing & Community,Income security,Additional exemption for housing disaster related displaced individuals,2005,Additional exemption for housing Hurricane Katrina displaced individuals,0,0,,Income security
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,2005,,0,360,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,2005,,30,10,,Health
+Energy & Environment,Energy,Alcohol fuel credits,2005,,30,10,,Health
 Energy & Environment,Energy,Allowance of deduction for certain energy efficient commercial building property,2005,,0,0,,General purpose fiscal assistance
 Energy & Environment,Energy,Alternative Fuel and Fuel Mixture tax credit,2005,,0,150,,General purpose fiscal assistance
 Energy & Environment,Energy,Alternative fuel production credit,2005,,2220,100,,General purpose fiscal assistance
@@ -3567,7 +3567,7 @@ Energy & Environment,Energy,Amortize all geological and geophysical expenditures
 Housing & Community,"Education, training, employment, and social services",Assistance for adopted foster children,2005,,0,310,,Agriculture
 Energy & Environment,Agriculture,Bio-Diesel and small agri-biodiesel producer tax credits,2005,,0,30,,Commerce and housing credit
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,2005,,0,30,,Energy
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",2005,,0,26170,,Commerce and housing
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",2005,,0,26170,,Commerce and housing
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,2005,,0,200,,Income security
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,2005,,0,35990,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,2005,,0,880,,Health
@@ -3681,7 +3681,7 @@ Food & Agriculture,Agriculture,Income averaging for farmers,2005,,0,40,,Health
 International affairs,International affairs,Inventory property sales source rules exception,2005,,1560,0,,"Education, training, employment, and social services"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),2005,,20,20,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,2005,,0,2330,,General government
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,2005,,0,1050,,Commerce and housing credit
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,2005,,0,1050,,Commerce and housing credit
 Energy & Environment,Energy,Natural gas distribution pipelines treated as 15-year property,2005,,0,0,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: 401(k) plans,2005,,0,37440,,Community and Regional Development
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,2005,,0,3100,,Income security
@@ -3722,14 +3722,14 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,2006,,0,1920,,Natural resources and environment
 Housing & Community,Income security,Additional exemption for housing disaster related displaced individuals,2006,Additional exemption for housing Hurricane Katrina displaced individuals,0,110,,Income security
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,2006,,0,540,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,2006,,40,10,,Health
+Energy & Environment,Energy,Alcohol fuel credits,2006,,40,10,,Health
 Energy & Environment,Energy,Allowance of deduction for certain energy efficient commercial building property,2006,,60,20,,GENERAL PURPOSE FISCAL ASSISTANCE
 Energy & Environment,Energy,Alternative fuel production credit,2006,,2860,120,,General government
 Energy & Environment,Energy,Amortize all geological and geophysical expenditures over 2 years,2006,,10,0,,Commerce and housing
 Housing & Community,"Education, training, employment, and social services",Assistance for adopted foster children,2006,,0,320,,Social Security
 Energy & Environment,Agriculture,Bio-Diesel and small agri-biodiesel producer tax credits,2006,,0,90,,Commerce and housing credit
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,2006,,0,90,,"Education, training, employment, and social services"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",2006,,0,48610,,Commerce and housing
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",2006,,0,48610,,Commerce and housing
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,2006,,0,240,,Income security
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,2006,,0,35270,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,2006,,0,880,,Health
@@ -3842,7 +3842,7 @@ Food & Agriculture,Agriculture,Income averaging for farmers,2006,,0,60,,Health
 International affairs,International affairs,Inventory property sales source rules exception,2006,,1730,0,,"Education, training, employment, and social services"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),2006,,20,20,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,2006,,0,2490,,General government
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,2006,,0,280,,Energy
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,2006,,0,280,,Energy
 Energy & Environment,Energy,Natural gas distribution pipelines treated as 15-year property,2006,,20,0,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: 401(k) plans,2006,,0,40760,,Community and Regional Development
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,2006,,0,3970,,Income security
@@ -3889,7 +3889,7 @@ Energy & Environment,Energy,Amortize all geological and geophysical expenditures
 Housing & Community,"Education, training, employment, and social services",Assistance for adopted foster children,2007,,0,350,,Commerce and housing
 Energy & Environment,Agriculture,Bio-Diesel and small agri-biodiesel producer tax credits,2007,,0,180,,Commerce and housing credit
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,2007,,0,110,,"Education, training, employment, and social services"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",2007,,0,53230,,Commerce and housing
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",2007,,0,53230,,Commerce and housing
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,2007,,0,270,,Income security
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,2007,,0,31480,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,2007,,0,980,,Health
@@ -4003,7 +4003,7 @@ Food & Agriculture,Agriculture,Income averaging for farmers,2007,,0,80,,Health
 International affairs,International affairs,Inventory property sales source rules exception,2007,,1940,0,,"Education, training, employment, and social services"
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),2007,,20,20,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,2007,,0,2210,,General government
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,2007,,0,760,,Energy
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,2007,,0,760,,Energy
 Energy & Environment,Energy,Natural gas distribution pipelines treated as 15-year property,2007,,60,0,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: 401(k) plans,2007,,0,46000,,Community and regional development
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,2007,,0,9500,,Income security
@@ -4042,14 +4042,14 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,2008,,0,2250,,Natural resources and environment
 Housing & Community,Income security,Additional exemption for housing disaster related displaced individuals,2008,,0,20,,
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,2008,,0,470,,Income security
-Energy & Environment,Energy,Alcohol fuel credit,2008,,40,10,,Transportation
+Energy & Environment,Energy,Alcohol fuel credits,2008,,40,10,,Transportation
 Energy & Environment,Energy,Allowance of deduction for certain energy efficient commercial building property,2008,,130,40,,GENERAL PURPOSE FISCAL ASSISTANCE
 Energy & Environment,Energy,Alternative fuel production credit,2008,,570,20,,General government
 Energy & Environment,Energy,Amortize all geological and geophysical expenditures over 2 years,2008,,20,0,,Commerce and housing
 Housing & Community,"Education, training, employment, and social services",Assistance for adopted foster children,2008,,0,430,,Commerce and housing
 Energy & Environment,Agriculture,Bio-Diesel and small agri-biodiesel producer tax credits,2008,,30,10,,Commerce and housing credit
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,2008,,0,60,,"Education, training, employment, and social services"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",2008,,0,24240,,Commerce and housing
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",2008,,0,24240,,Commerce and housing
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,2008,,0,60,,Health
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,2008,,0,30090,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,2008,,0,1160,,Health
@@ -4167,7 +4167,7 @@ Energy & Environment,Natural resources and environment,Industrial CO2 capture an
 International affairs,International affairs,Inventory property sales source rules exception,2008,,2200,0,,Health
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),2008,,20,20,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,2008,,0,2470,,General government
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,2008,,0,1830,,Energy
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,2008,,0,1830,,Energy
 Energy & Environment,Energy,Natural gas distribution pipelines treated as 15-year property,2008,,80,0,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: 401(k) plans,2008,,0,47000,,Community and regional development
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,2008,,0,11700,,"General science, space, and technology"
@@ -4207,7 +4207,7 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,2009,,0,2230,,Natural resources and environment
 Housing & Community,Income security,Additional exemption for housing disaster related displaced individuals,2009,,0,10,,
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,2009,,0,530,,Transportation
-Energy & Environment,Energy,Alcohol fuel credit,2009,,40,10,,Health
+Energy & Environment,Energy,Alcohol fuel credits,2009,,40,10,,Health
 Energy & Environment,Energy,Allowance of deduction for certain energy efficient commercial building property,2009,,50,10,,GENERAL PURPOSE FISCAL ASSISTANCE
 Energy & Environment,Energy,Alternative fuel production credit,2009,,60,0,,GENERAL PURPOSE FISCAL ASSISTANCE
 Education,"Education, training, employment, and social services",American Opportunity Tax Credit,2009,,,2460,,
@@ -4216,7 +4216,7 @@ Housing & Community,"Education, training, employment, and social services",Assis
 Energy & Environment,Agriculture,Bio-Diesel and small agri-biodiesel producer tax credits,2009,,20,10,,Commerce and housing credit
 Government,General purpose fiscal assistance,Build America Bonds,2009,,-40,-160,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,2009,,0,300,,"Education, training, employment, and social services"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",2009,,0,52590,,Commerce and housing
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",2009,,0,52590,,Commerce and housing
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,2009,,0,50,,Income security
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,2009,,0,23500,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,2009,,0,700,,Health
@@ -4336,7 +4336,7 @@ International affairs,International affairs,Inventory property sales source rule
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),2009,,10,20,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,2009,,0,3860,,General government
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Making work pay tax credit,2009,,0,9340,,Community and regional development
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,2009,,0,1930,,Energy
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,2009,,0,1930,,Energy
 Energy & Environment,Energy,Natural gas distribution pipelines treated as 15-year property,2009,,80,0,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: 401(k) plans,2009,,0,44126,,Transportation
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,2009,,0,12090,,"General science, space, and technology"
@@ -4380,7 +4380,7 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 "Social Security, Unemployment & Labor",Income security,Additional deduction for the elderly,2010,,0,1890,,Natural resources and environment
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,2010,,0,660,,Income security
 Energy & Environment,Energy,Advanced Energy Property Credit,2010,,160,20,,Health
-Energy & Environment,Energy,Alcohol fuel credit,2010,,60,10,,Health
+Energy & Environment,Energy,Alcohol fuel credits,2010,,60,10,,Health
 Energy & Environment,Energy,Allowance of deduction for certain energy efficient commercial building property,2010,,50,10,,GENERAL PURPOSE FISCAL ASSISTANCE
 Energy & Environment,Energy,Alternative fuel production credit,2010,,160,10,,GENERAL PURPOSE FISCAL ASSISTANCE
 Education,"Education, training, employment, and social services",American Opportunity Tax Credit,2010,,,15110,,Social Security
@@ -4389,7 +4389,7 @@ Housing & Community,"Education, training, employment, and social services",Assis
 Energy & Environment,Agriculture,Bio-Diesel and small agri-biodiesel producer tax credits,2010,,20,0,,Commerce and housing credit
 Government,General purpose fiscal assistance,Build America Bonds,2010,,0,0,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,2010,,0,750,,"Education, training, employment, and social services"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",2010,,0,36300,,Commerce and housing
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",2010,,0,36300,,Commerce and housing
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,2010,,0,50,,Income security
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,2010,,0,22160,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,2010,,0,490,,Natural resources and environment
@@ -4510,7 +4510,7 @@ International affairs,International affairs,Inventory property sales source rule
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),2010,,10,10,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,2010,,0,3490,,General government
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Making work pay tax credit,2010,,0,38850,,Community and regional development
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,2010,,0,1790,,Energy
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,2010,,0,1790,,Energy
 Energy & Environment,Energy,Natural gas distribution pipelines treated as 15-year property,2010,,120,0,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: 401(k) plans,2010,,0,52240,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,2010,,0,12630,,"General science, space, and technology"
@@ -4554,7 +4554,7 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,2011,,0,1200,,Income security
 Energy & Environment,Energy,Advanced Energy Property Credit,2011,,390,40,,Health
 Energy & Environment,Energy,Advanced nuclear power production credit,2011,,0,0,,Health
-Energy & Environment,Energy,Alcohol fuel credit,2011,,480,20,,Health
+Energy & Environment,Energy,Alcohol fuel credits,2011,,480,20,,Health
 Energy & Environment,Energy,Allowance of deduction for certain energy efficient commercial building property,2011,,60,20,,GENERAL PURPOSE FISCAL ASSISTANCE
 Energy & Environment,Energy,Alternative fuel production credit,2011,,10,0,,General purpose fiscal assistance
 Education,"Education, training, employment, and social services",American Opportunity Tax Credit,2011,,,13060,,
@@ -4563,7 +4563,7 @@ Housing & Community,"Education, training, employment, and social services",Assis
 Energy & Environment,Agriculture,Bio-Diesel and small agri-biodiesel producer tax credits,2011,,20,0,,Commerce and housing credit
 Government,General purpose fiscal assistance,Build America Bonds,2011,,0,0,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,2011,,0,690,,"Education, training, employment, and social services"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",2011,,0,47390,,
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",2011,,0,47390,,
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,2011,,0,60,,Energy
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,2011,,0,15060,,Health
 Commerce,Agriculture,Capital gains treatment of certain income,2011,,0,630,,Health
@@ -4683,7 +4683,7 @@ International affairs,International affairs,Inventory property sales source rule
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),2011,,10,10,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,2011,,0,2800,,Business investment
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Making work pay tax credit,2011,,0,23528,,General government
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,2011,,0,1880,,Energy
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,2011,,0,1880,,Energy
 Energy & Environment,Energy,Natural gas distribution pipelines treated as 15-year property,2011,,120,0,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: 401(k) plans,2011,,0,53360,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Individual Retirement Accounts,2011,,0,12840,,Energy
@@ -4727,7 +4727,7 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 Housing & Community,"Education, training, employment, and social services",Adoption credit and exclusion,2012,,,62,,Income security
 Energy & Environment,Energy,Advanced Energy Property Credit,2012,,500,80,,Health
 Energy & Environment,Energy,Advanced nuclear power production credit,2012,,0,0,,Health
-Energy & Environment,Energy,Alcohol fuel credit,2012,,110,30,,Health
+Energy & Environment,Energy,Alcohol fuel credits,2012,,110,30,,Health
 Energy & Environment,Energy,Allowance of deduction for certain energy efficient commercial building property,2012,,30,40,,GENERAL PURPOSE FISCAL ASSISTANCE
 Energy & Environment,Energy,Alternative fuel production credit,2012,,20,0,,General purpose fiscal assistance
 Education,"Education, training, employment, and social services",American Opportunity Tax Credit,2012,,,15580,,
@@ -4736,7 +4736,7 @@ Housing & Community,"Education, training, employment, and social services",Assis
 Energy & Environment,Agriculture,Bio-Diesel and small agri-biodiesel producer tax credits,2012,,10,0,,Commerce and housing credit
 Government,General purpose fiscal assistance,Build America Bonds,2012,,0,0,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,2012,,,150,,"Education, training, employment, and social services"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore and coal)",2012,,,65360,,
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",2012,,,65360,,
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,2012,,,50,,Income security
 Housing & Community,Commerce and Housing,Capital gains exclusion on home sales,2012,,,30900,,"Education, training, employment, and social services"
 Commerce,Agriculture,Capital gains treatment of certain income,2012,,,880,,Health
@@ -4852,7 +4852,7 @@ Energy & Environment,Natural resources and environment,Industrial CO2 capture an
 International affairs,International affairs,Inventory property sales source rules exception,2012,,3310,,,Health
 Housing & Community,Community and regional development,Investment credit for rehabilitation of structures (other than historic),2012,,10,20,,"Education, training, employment, and social services"
 Education,"Education, training, employment, and social services",Lifetime Learning tax credit,2012,,,2000,,Business investment
-Medicare & Health,Health,Medical Savings Accounts/ Health Savings Accounts,2012,,,1520,,Energy
+Medicare & Health,Health,Medical Savings Accounts / Health Savings Accounts,2012,,,1520,,Energy
 Energy & Environment,Energy,Natural gas distribution pipelines treated as 15-year property,2012,,110,0,,Commerce and housing
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Defined benefit employer plans,2012,,,38740,,Energy
 "Social Security, Unemployment & Labor",Income security,Net exclusion of pension contribution and earnings: Defined contribution employer plans,2012,,,51830,,Energy
@@ -4896,7 +4896,7 @@ Housing & Community,Commerce and housing ,Accelerated depreciation on rental hou
 Housing & Community,"Education, training, employment, and social services ",Adoption credit and exclusion,2013,,,450,,
 Energy & Environment,Energy ,Advanced Energy Property Credit,2013,,210,0,,
 Energy & Environment,Energy ,Advanced nuclear power production credit,2013,,,0,,
-Energy & Environment,Energy ,Alcohol fuel credit,2013,,10,30,,
+Energy & Environment,Energy ,Alcohol fuel credits,2013,,10,30,,
 Energy & Environment,Energy ,Allowance of deduction for certain energy efficient commercial building property,2013,,30,40,,
 Energy & Environment,Energy ,Alternative fuel production credit,2013,,10,0,,
 Education,"Education, training, employment, and social services ",American Opportunity Tax Credit,2013,,,12540,,
@@ -4904,7 +4904,7 @@ Energy & Environment,Energy ,Amortize all geological and geophysical expenditure
 Housing & Community,"Education, training, employment, and social services ",Assistance for adopted foster children,2013,,,530,,
 Energy & Environment,Energy ,Bio-Diesel and small agri-biodiesel producer tax credits,2013,,10,10,,
 Government,General purpose fiscal assistance ,Build America Bonds,2013,,0,0,,
-Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore and coal)",2013,,,68860,,
+Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore, and coal)",2013,,,68860,,
 Commerce,Commerce and housing ,Capital gains exclusion of small corporation stock,2013,,,140,,
 Housing & Community,Commerce and housing ,Capital gains exclusion on home sales,2013,,,34270,,
 Commerce,Agriculture ,Capital gains treatment of certain income,2013,,,920,,
@@ -5021,7 +5021,7 @@ Energy & Environment,Natural resources and environment ,Industrial CO2 capture a
 International affairs,International affairs ,Inventory property sales source rules exception,2013,,3320,,,
 Housing & Community,Community and regional development ,Investment credit for rehabilitation of structures (other than historic),2013,,10,20,,
 Education,"Education, training, employment, and social services ",Lifetime Learning tax credit,2013,,,1810,,
-Medicare & Health,Health ,Medical Savings Accounts/ Health Savings Accounts,2013,,,3110,,
+Medicare & Health,Health ,Medical Savings Accounts / Health Savings Accounts,2013,,,3110,,
 Energy & Environment,Energy ,Natural gas distribution pipelines treated as 15-year property,2013,,100,0,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined benefit employer plans,2013,,,37860,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined contribution employer plans,2013,,,50670,,
@@ -5065,7 +5065,7 @@ Housing & Community,Commerce and housing ,Accelerated depreciation on rental hou
 Housing & Community,"Education, training, employment, and social services ",Adoption credit and exclusion,2014,,,540,,
 Energy & Environment,Energy ,Advanced Energy Property Credit,2014,,110,0,,
 Energy & Environment,Energy ,Advanced nuclear power production credit,2014,,0,0,,
-Energy & Environment,Energy ,Alcohol fuel credit,2014,,0,10,,
+Energy & Environment,Energy ,Alcohol fuel credits,2014,,0,10,,
 Energy & Environment,Energy ,Allowance of deduction for certain energy efficient commercial building property,2014,,20,20,,
 Energy & Environment,Energy ,Alternative fuel production credit,2014,,0,0,,
 Education,"Education, training, employment, and social services ",American Opportunity Tax Credit,2014,,,15530,,
@@ -5073,7 +5073,7 @@ Energy & Environment,Energy ,Amortize all geological and geophysical expenditure
 Housing & Community,"Education, training, employment, and social services ",Assistance for adopted foster children,2014,,,530,,
 Energy & Environment,Energy ,Bio-Diesel and small agri-biodiesel producer tax credits,2014,,10,10,,
 Government,General purpose fiscal assistance ,Build America Bonds,2014,,0,0,,
-Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore and coal)",2014,,,60030,,
+Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore, and coal)",2014,,,60030,,
 Commerce,Commerce and housing ,Capital gains exclusion of small corporation stock,2014,,,340,,
 Housing & Community,Commerce and housing ,Capital gains exclusion on home sales,2014,,,52250,,
 Commerce,Agriculture ,Capital gains treatment of certain income,2014,,,800,,
@@ -5190,7 +5190,7 @@ Energy & Environment,Natural resources and environment ,Industrial CO2 capture a
 International affairs,International affairs ,Inventory property sales source rules exception,2014,,3600,,,
 Housing & Community,Community and regional development ,Investment credit for rehabilitation of structures (other than historic),2014,,10,20,,
 Education,"Education, training, employment, and social services ",Lifetime Learning tax credit,2014,,,1680,,
-Medicare & Health,Health ,Medical Savings Accounts/ Health Savings Accounts,2014,,,3900,,
+Medicare & Health,Health ,Medical Savings Accounts / Health Savings Accounts,2014,,,3900,,
 Energy & Environment,Energy ,Natural gas distribution pipelines treated as 15-year property,2014,,100,0,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined benefit employer plans,2014,,,40090,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined contribution employer plans,2014,,,59380,,
@@ -5234,7 +5234,7 @@ Housing & Community,Commerce and housing ,Accelerated depreciation on rental hou
 Housing & Community,"Education, training, employment, and social services ",Adoption credit and exclusion,2015,,,580,,
 Energy & Environment,Energy ,Advanced Energy Property Credit,2015,,90,0,,
 Energy & Environment,Energy ,Advanced nuclear power production credit,2015,,0,0,,
-Energy & Environment,Energy ,Alcohol fuel credit,2015,,0,10,,
+Energy & Environment,Energy ,Alcohol fuel credits,2015,,0,10,,
 Energy & Environment,Energy ,Allowance of deduction for certain energy efficient commercial building property,2015,,10,10,,
 Energy & Environment,Energy ,Alternative fuel production credit,2015,,0,0,,
 Education,"Education, training, employment, and social services ",American Opportunity Tax Credit,2015,,,15240,,
@@ -5242,7 +5242,7 @@ Energy & Environment,Energy ,Amortize all geological and geophysical expenditure
 Housing & Community,"Education, training, employment, and social services ",Assistance for adopted foster children,2015,,,560,,
 Energy & Environment,Energy ,Bio-Diesel and small agri-biodiesel producer tax credits,2015,,0,0,,
 Government,General purpose fiscal assistance ,Build America Bonds,2015,,0,0,,
-Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore and coal)",2015,,,68850,,
+Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore, and coal)",2015,,,68850,,
 Commerce,Commerce and housing ,Capital gains exclusion of small corporation stock,2015,,,480,,
 Housing & Community,Commerce and housing ,Capital gains exclusion on home sales,2015,,,56510,,
 Commerce,Agriculture ,Capital gains treatment of certain income,2015,,,920,,
@@ -5359,7 +5359,7 @@ Energy & Environment,Natural resources and environment ,Industrial CO2 capture a
 International affairs,International affairs ,Inventory property sales source rules exception,2015,,3890,,,
 Housing & Community,Community and regional development ,Investment credit for rehabilitation of structures (other than historic),2015,,10,20,,
 Education,"Education, training, employment, and social services ",Lifetime Learning tax credit,2015,,,1720,,
-Medicare & Health,Health ,Medical Savings Accounts/ Health Savings Accounts,2015,,,4890,,
+Medicare & Health,Health ,Medical Savings Accounts / Health Savings Accounts,2015,,,4890,,
 Energy & Environment,Energy ,Natural gas distribution pipelines treated as 15-year property,2015,,100,0,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined benefit employer plans,2015,,,42340,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined contribution employer plans,2015,,,61050,,
@@ -5403,7 +5403,7 @@ Housing & Community,Commerce and housing ,Accelerated depreciation on rental hou
 Housing & Community,"Education, training, employment, and social services ",Adoption credit and exclusion,2016,,,600,,
 Energy & Environment,Energy ,Advanced Energy Property Credit,2016,,0,0,,
 Energy & Environment,Energy ,Advanced nuclear power production credit,2016,,0,0,,
-Energy & Environment,Energy ,Alcohol fuel credit,2016,,0,0,,
+Energy & Environment,Energy ,Alcohol fuel credits,2016,,0,0,,
 Energy & Environment,Energy ,Allowance of deduction for certain energy efficient commercial building property,2016,,0,0,,
 Energy & Environment,Energy ,Alternative fuel production credit,2016,,0,0,,
 Education,"Education, training, employment, and social services ",American Opportunity Tax Credit,2016,,,15310,,
@@ -5411,7 +5411,7 @@ Energy & Environment,Energy ,Amortize all geological and geophysical expenditure
 Housing & Community,"Education, training, employment, and social services ",Assistance for adopted foster children,2016,,,590,,
 Energy & Environment,Energy ,Bio-Diesel and small agri-biodiesel producer tax credits,2016,,0,0,,
 Government,General purpose fiscal assistance ,Build America Bonds,2016,,0,0,,
-Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore and coal)",2016,,,79300,,
+Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore, and coal)",2016,,,79300,,
 Commerce,Commerce and housing ,Capital gains exclusion of small corporation stock,2016,,,640,,
 Housing & Community,Commerce and housing ,Capital gains exclusion on home sales,2016,,,61110,,
 Commerce,Agriculture ,Capital gains treatment of certain income,2016,,,1060,,
@@ -5528,7 +5528,7 @@ Energy & Environment,Natural resources and environment ,Industrial CO2 capture a
 International affairs,International affairs ,Inventory property sales source rules exception,2016,,4220,,,
 Housing & Community,Community and regional development ,Investment credit for rehabilitation of structures (other than historic),2016,,10,20,,
 Education,"Education, training, employment, and social services ",Lifetime Learning tax credit,2016,,,1740,,
-Medicare & Health,Health ,Medical Savings Accounts/ Health Savings Accounts,2016,,,6110,,
+Medicare & Health,Health ,Medical Savings Accounts / Health Savings Accounts,2016,,,6110,,
 Energy & Environment,Energy ,Natural gas distribution pipelines treated as 15-year property,2016,,110,0,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined benefit employer plans,2016,,,44750,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined contribution employer plans,2016,,,77020,,
@@ -5572,7 +5572,7 @@ Housing & Community,Commerce and housing ,Accelerated depreciation on rental hou
 Housing & Community,"Education, training, employment, and social services ",Adoption credit and exclusion,2017,,,640,,
 Energy & Environment,Energy ,Advanced Energy Property Credit,2017,,0,0,,
 Energy & Environment,Energy ,Advanced nuclear power production credit,2017,,160,50,,
-Energy & Environment,Energy ,Alcohol fuel credit,2017,,0,0,,
+Energy & Environment,Energy ,Alcohol fuel credits,2017,,0,0,,
 Energy & Environment,Energy ,Allowance of deduction for certain energy efficient commercial building property,2017,,0,0,,
 Energy & Environment,Energy ,Alternative fuel production credit,2017,,0,0,,
 Education,"Education, training, employment, and social services ",American Opportunity Tax Credit,2017,,,15370,,
@@ -5580,7 +5580,7 @@ Energy & Environment,Energy ,Amortize all geological and geophysical expenditure
 Housing & Community,"Education, training, employment, and social services ",Assistance for adopted foster children,2017,,,620,,
 Energy & Environment,Energy ,Bio-Diesel and small agri-biodiesel producer tax credits,2017,,0,0,,
 Government,General purpose fiscal assistance ,Build America Bonds,2017,,0,0,,
-Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore and coal)",2017,,,86950,,
+Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore, and coal)",2017,,,86950,,
 Commerce,Commerce and housing ,Capital gains exclusion of small corporation stock,2017,,,850,,
 Housing & Community,Commerce and housing ,Capital gains exclusion on home sales,2017,,,66090,,
 Commerce,Agriculture ,Capital gains treatment of certain income,2017,,,1160,,
@@ -5697,7 +5697,7 @@ Energy & Environment,Natural resources and environment ,Industrial CO2 capture a
 International affairs,International affairs ,Inventory property sales source rules exception,2017,,4560,,,
 Housing & Community,Community and regional development ,Investment credit for rehabilitation of structures (other than historic),2017,,10,20,,
 Education,"Education, training, employment, and social services ",Lifetime Learning tax credit,2017,,,1740,,
-Medicare & Health,Health ,Medical Savings Accounts/ Health Savings Accounts,2017,,,7630,,
+Medicare & Health,Health ,Medical Savings Accounts / Health Savings Accounts,2017,,,7630,,
 Energy & Environment,Energy ,Natural gas distribution pipelines treated as 15-year property,2017,,110,0,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined benefit employer plans,2017,,,47270,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined contribution employer plans,2017,,,88740,,
@@ -5741,7 +5741,7 @@ Housing & Community,Commerce and housing ,Accelerated depreciation on rental hou
 Housing & Community,"Education, training, employment, and social services ",Adoption credit and exclusion,2018,,,730,,
 Energy & Environment,Energy ,Advanced Energy Property Credit,2018,,-10,0,,
 Energy & Environment,Energy ,Advanced nuclear power production credit,2018,,350,120,,
-Energy & Environment,Energy ,Alcohol fuel credit,2018,,0,0,,
+Energy & Environment,Energy ,Alcohol fuel credits,2018,,0,0,,
 Energy & Environment,Energy ,Allowance of deduction for certain energy efficient commercial building property,2018,,-10,-10,,
 Energy & Environment,Energy ,Alternative fuel production credit,2018,,0,0,,
 Education,"Education, training, employment, and social services ",American Opportunity Tax Credit,2018,,,13760,,
@@ -5749,7 +5749,7 @@ Energy & Environment,Energy ,Amortize all geological and geophysical expenditure
 Housing & Community,"Education, training, employment, and social services ",Assistance for adopted foster children,2018,,,660,,
 Energy & Environment,Energy ,Bio-Diesel and small agri-biodiesel producer tax credits,2018,,0,0,,
 Government,General purpose fiscal assistance ,Build America Bonds,2018,,0,0,,
-Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore and coal)",2018,,,91550,,
+Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore, and coal)",2018,,,91550,,
 Commerce,Commerce and housing ,Capital gains exclusion of small corporation stock,2018,,,1000,,
 Housing & Community,Commerce and housing ,Capital gains exclusion on home sales,2018,,,71480,,
 Commerce,Agriculture ,Capital gains treatment of certain income,2018,,,1230,,
@@ -5866,7 +5866,7 @@ Energy & Environment,Natural resources and environment ,Industrial CO2 capture a
 International affairs,International affairs ,Inventory property sales source rules exception,2018,,4940,,,
 Housing & Community,Community and regional development ,Investment credit for rehabilitation of structures (other than historic),2018,,10,20,,
 Education,"Education, training, employment, and social services ",Lifetime Learning tax credit,2018,,,1880,,
-Medicare & Health,Health ,Medical Savings Accounts/ Health Savings Accounts,2018,,,9440,,
+Medicare & Health,Health ,Medical Savings Accounts / Health Savings Accounts,2018,,,9440,,
 Energy & Environment,Energy ,Natural gas distribution pipelines treated as 15-year property,2018,,120,0,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined benefit employer plans,2018,,,49160,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined contribution employer plans,2018,,,92770,,
@@ -5910,7 +5910,7 @@ Housing & Community,Commerce and housing ,Accelerated depreciation on rental hou
 Housing & Community,"Education, training, employment, and social services ",Adoption credit and exclusion,2019,,,660,,
 Energy & Environment,Energy ,Advanced Energy Property Credit,2019,,-10,0,,
 Energy & Environment,Energy ,Advanced nuclear power production credit,2019,,440,150,,
-Energy & Environment,Energy ,Alcohol fuel credit,2019,,0,0,,
+Energy & Environment,Energy ,Alcohol fuel credits,2019,,0,0,,
 Energy & Environment,Energy ,Allowance of deduction for certain energy efficient commercial building property,2019,,-10,-10,,
 Energy & Environment,Energy ,Alternative fuel production credit,2019,,0,0,,
 Education,"Education, training, employment, and social services ",American Opportunity Tax Credit,2019,,,0,,
@@ -5918,7 +5918,7 @@ Energy & Environment,Energy ,Amortize all geological and geophysical expenditure
 Housing & Community,"Education, training, employment, and social services ",Assistance for adopted foster children,2019,,,700,,
 Energy & Environment,Energy ,Bio-Diesel and small agri-biodiesel producer tax credits,2019,,0,0,,
 Government,General purpose fiscal assistance ,Build America Bonds,2019,,0,0,,
-Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore and coal)",2019,,,95620,,
+Commerce,Commerce and housing ,"Capital gains (except agriculture, timber, iron ore, and coal)",2019,,,95620,,
 Commerce,Commerce and housing ,Capital gains exclusion of small corporation stock,2019,,,1010,,
 Housing & Community,Commerce and housing ,Capital gains exclusion on home sales,2019,,,77300,,
 Commerce,Agriculture ,Capital gains treatment of certain income,2019,,,1280,,
@@ -6035,7 +6035,7 @@ Energy & Environment,Natural resources and environment ,Industrial CO2 capture a
 International affairs,International affairs ,Inventory property sales source rules exception,2019,,5352,,,
 Housing & Community,Community and regional development ,Investment credit for rehabilitation of structures (other than historic),2019,,10,20,,
 Education,"Education, training, employment, and social services ",Lifetime Learning tax credit,2019,,,3100,,
-Medicare & Health,Health ,Medical Savings Accounts/ Health Savings Accounts,2019,,,11720,,
+Medicare & Health,Health ,Medical Savings Accounts / Health Savings Accounts,2019,,,11720,,
 Energy & Environment,Energy ,Natural gas distribution pipelines treated as 15-year property,2019,,120,0,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined benefit employer plans,2019,,,51440,,
 "Social Security, Unemployment & Labor",Income security ,Net exclusion of pension contribution and earnings: Defined contribution employer plans,2019,,,94820,,
