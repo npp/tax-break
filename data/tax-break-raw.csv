@@ -224,7 +224,7 @@ Government,Commerce and Housing,Surtax exemption (through 1978),1976,Corporate s
 "Social Security, Unemployment & Labor",Income security,Additional exemption for elderly,1977,,,1140,,Commerce and housing credit
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1977,,,20,,
 Commerce,Commerce and Housing,Asset depreciation range,1977,,1955,100,,Commerce and housing
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1977,"Capital gains (other than agriculture, timber, iron ore, and coal)",520,6910,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1977,,520,6910,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1977,Capital gains treatment of certain ordinary income,10,330,,Commerce and housing credit
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1977,,185,55,,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1977,,5,5,,Income security
@@ -311,7 +311,7 @@ Energy & Environment,Natural resources and environment,Tax incentives for preser
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1978,,,25,,
 Energy & Environment,Energy,"Alternative, conservation and new technology credits",1978,,,,,Energy
 Commerce,Commerce and Housing,Asset depreciation range,1978,,2130,110,,Commerce and housing
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1978,"Capital gains (other than agriculture, timber, iron ore, and coal)",525,7125,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1978,,525,7125,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1978,,10,350,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1978,,275,75,,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1978,,5,5,,Income security
@@ -404,7 +404,7 @@ Energy & Environment,Natural resources and environment,Tax incentives for preser
 "Social Security, Unemployment & Labor",Income security,Additional exemption for the blind,1979,,,35,,Income security
 Energy & Environment,Energy,"Alternative, conservation and new technology credits",1979,,220,,,
 Commerce,Commerce and Housing,Asset depreciation range,1979,,2460,130,,Commerce and housing
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1979,"Capital gains (other than agriculture, timber, iron ore, and coal)",655,10190,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1979,,655,10190,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1979,,15,365,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1979,,385,110,,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1979,,10,10,,Income security
@@ -501,7 +501,7 @@ Energy & Environment,Energy,"Alternative, conservation and new technology credit
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1980,,140,10,,"Education, training, employment, and social services"
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1980,,,,,Commerce and housing credit
 Commerce,Commerce and Housing,Asset depreciation range,1980,,2880,150,,Commerce and housing
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1980,"Capital gains (other than agriculture, timber, iron ore, and coal)",715,15415,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1980,,715,15415,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1980,,20,385,,
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1980,,420,120,,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1980,,10,10,,Commerce and housing credit
@@ -604,7 +604,7 @@ Energy & Environment,Energy,Alternative fuel production credit,1981,,,,25,
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1981,,,,220,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1981,,,,180,"Education, training, employment, and social services"
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1981,,,,20,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1981,"Capital gains (other than agriculture, timber, iron ore, and coal)",,,17965,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1981,,,,17965,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1981,,,,425,Energy
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1981,,,,585,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1981,,,,20,Commerce and housing credit
@@ -707,7 +707,7 @@ Energy & Environment,Energy,Alternative fuel production credit,1982,,,,15,Transp
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1982,,,,220,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1982,,,,205,"Education, training, employment, and social services"
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1982,,,,75,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1982,"Capital gains (other than agriculture, timber, iron ore, and coal)",,,18020,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1982,,,,18020,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1982,,,,610,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1982,,,,335,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1982,,,,20,Commerce and housing credit
@@ -812,7 +812,7 @@ Energy & Environment,Energy,Alternative fuel production credit,1983,,10,,,Transp
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1983,,45,5,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1983,,215,35,,
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1983,,15,105,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1983,"Capital gains (other than agriculture, timber, iron ore, and coal)",1770,15335,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1983,,1770,15335,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1983,,30,585,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1983,,275,95,,Health
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1983,,5,10,,Commerce and housing credit
@@ -921,7 +921,7 @@ Energy & Environment,Energy,Alternative fuel production credit,1984,,10,,,Transp
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1984,,10,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1984,,195,25,,
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1984,,20,160,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1984,"Capital gains (other than agriculture, timber, iron ore, and coal)",1440,17615,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1984,,1440,17615,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1984,,20,550,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1984,,215,80,,Income security
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1984,,,15,,Commerce and housing credit
@@ -1034,7 +1034,7 @@ Energy & Environment,Energy,Alternative fuel production credit,1985,,10,,,Transp
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1985,,,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1985,,175,95,,
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1985,,25,210,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1985,"Capital gains (other than agriculture, timber, iron ore, and coal)",1540,25885,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1985,,1540,25885,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1985,,30,575,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1985,,265,85,,Income security
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1985,,,20,,Commerce and housing credit
@@ -1146,7 +1146,7 @@ Energy & Environment,Energy,Alternative fuel production credit,1986,,20,,,Transp
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1986,,,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1986,,265,15,,
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1986,,25,220,,Social Security
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1986,"Capital gains (other than agriculture, timber, iron ore, and coal)",2190,28820,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1986,,2190,28820,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1986,,35,605,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1986,,320,90,,Income security
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1986,,,15,,Commerce and housing credit
@@ -1265,7 +1265,7 @@ Energy & Environment,Energy,Alternative fuel production credit,1987,,10,,,Transp
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1987,,,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1987,,140,10,,Social Security
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1987,,20,200,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1987,"Capital gains (other than agriculture, timber, iron ore, and coal)",910,61285,,Commerce and housing credit
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1987,,910,61285,,Commerce and housing credit
 Commerce,Agriculture,Capital gains treatment of certain income,1987,,10,125,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1987,,145,60,,Income security
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1987,,,10,,Energy
@@ -1383,7 +1383,7 @@ Energy & Environment,Energy,Alternative fuel production credit,1988,,10,,,Genera
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1988,,,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1988,,80,,,
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1988,,20,165,,Commerce and housing credit
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1988,"Capital gains (other than agriculture, timber, iron ore, and coal)",,210,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1988,,,210,,Income security
 Commerce,Agriculture,Capital gains treatment of certain income,1988,,,,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1988,,,,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1988,,,,,Health
@@ -1632,7 +1632,7 @@ Energy & Environment,Energy,Alternative fuel production credit,1990,,10,,,Transp
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Conservation incentives",1990,,,,,Energy
 Energy & Environment,Energy,"Alternative, conservation and new technology credits: Supply incentives",1990,,75,,,
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1990,,35,135,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1990,"Capital gains (other than agriculture, timber, iron ore, and coal)",,,,Commerce and housing credit
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1990,,,,,Commerce and housing credit
 Commerce,Agriculture,Capital gains treatment of certain income,1990,,,,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1990,,,,,Energy
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1990,,,,,Commerce and housing credit
@@ -1759,7 +1759,7 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 Energy & Environment,Energy,Alcohol fuel credits,1991,,,,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1991,,205,50,,Transportation
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1991,,35,145,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1991,"Capital gains (other than agriculture, timber, iron ore, and coal)",,2205,,Agriculture
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1991,,,2205,,Agriculture
 Commerce,Agriculture,Capital gains treatment of certain income,1991,,,45,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1991,,,5,,Commerce and housing credit
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1991,,,,,Commerce and housing credit
@@ -1878,7 +1878,7 @@ Housing & Community,Commerce and Housing,Accelerated depreciation on rental hous
 Energy & Environment,Energy,Alcohol fuel credits,1992,,10,,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1992,,580,100,,Transportation
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1992,,50,135,,"General science, space, and technology"
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1992,"Capital gains (other than agriculture, timber, iron ore, and coal)",,2195,,Agriculture
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1992,,,2195,,Agriculture
 Commerce,Agriculture,Capital gains treatment of certain income,1992,,,45,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1992,,,5,,Commerce and housing credit
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1992,,,,,Health
@@ -1981,7 +1981,7 @@ Energy & Environment,Natural resources and environment,Special rules for mining 
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,1992,,,23425,,Commerce and housing
 Science,"General science, space, and technology",Suspension of the allocation of research and experimentation expenditures,1992,,250,,,Commerce and housing credit
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Targeted jobs credit,1992,,150,30,,"Education, training, employment, and social services"
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,1992,Credit and deduction for clean-fuel vehicles and properties,,,,Energy
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,1992,Credit and deduction for clean-fuel vehicles and properties,,,,Energy
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,1992,,2970,,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,1992,,15,,,"Education, training, employment, and social services"
 "Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,1992,,,75,,Income security
@@ -1998,7 +1998,7 @@ Energy & Environment,Energy,Alcohol fuel credits,1993,,5,10,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1993,,640,120,,Transportation
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1993,,100,100,,"General science, space, and technology"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,1993,,,60,,Energy
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1993,"Capital gains (other than agriculture, timber, iron ore, and coal)",,5510,,Natural resources and environment
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1993,,,5510,,Natural resources and environment
 Commerce,Agriculture,Capital gains treatment of certain income,1993,,,115,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1993,,,10,,Commerce and housing credit
 Energy & Environment,Natural resources and environment,Capital gains treatment of iron ore,1993,,,,,Health
@@ -2105,7 +2105,7 @@ Energy & Environment,Natural resources and environment,Special rules for mining 
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,1993,,,25340,,Commerce and housing
 Science,"General science, space, and technology",Suspension of the allocation of research and experimentation expenditures,1993,,0,,,Business investment
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Targeted jobs credit,1993,,130,30,,"Education, training, employment, and social services"
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,1993,,15,0,,Energy
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,1993,Tax credit and deduction for clean-fuel burning vehicles and properties,15,0,,Energy
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,1993,,3075,,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,1993,,0,,,Budget Function
 Medicare & Health,Income security,Tax credit for the elderly and disabled,1993,,,60,,
@@ -2122,7 +2122,7 @@ Energy & Environment,Energy,Alcohol fuel credits,1994,,5,10,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1994,,760,140,,Social Security
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1994,,85,100,,"General science, space, and technology"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,1994,,,125,,Energy
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1994,"Capital gains (other than agriculture, timber, iron ore, and coal)",,5745,,Commerce and housing credit
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1994,,,5745,,Commerce and housing credit
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,1994,,,,,"Education, training, employment, and social services"
 Commerce,Agriculture,Capital gains treatment of certain income,1994,,,120,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1994,,,10,,Commerce and housing credit
@@ -2229,7 +2229,7 @@ Energy & Environment,Natural resources and environment,Special rules for mining 
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,1994,,,26850,,Commerce and housing
 Science,"General science, space, and technology",Suspension of the allocation of research and experimentation expenditures,1994,,325,,,Commerce and housing credit
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Targeted jobs credit,1994,,260,45,,"Education, training, employment, and social services"
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,1994,Tax credit and deduction for clean-fuel burning vehicles and properties,45,5,,Energy
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,1994,Tax credit and deduction for clean-fuel burning vehicles and properties,45,5,,Energy
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,1994,,2890,,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,1994,,,,,Budget Function
 "Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,1994,,,55,,
@@ -2246,7 +2246,7 @@ Energy & Environment,Energy,Alcohol fuel credits,1995,,5,5,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1995,,820,150,,General government
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1995,,85,100,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,1995,,,105,,Energy
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1995,"Capital gains (other than agriculture, timber, iron ore, and coal)",,7125,,Commerce and housing credit
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1995,,,7125,,Commerce and housing credit
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,1995,,,0,,"Education, training, employment, and social services"
 Commerce,Agriculture,Capital gains treatment of certain income,1995,,,145,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1995,,,15,,Commerce and housing
@@ -2352,7 +2352,7 @@ Energy & Environment,Natural resources and environment,Special rules for mining 
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,1995,,,28305,,Energy
 Science,"General science, space, and technology",Suspension of the allocation of research and experimentation expenditures,1995,,325,,,Commerce and housing credit
 "Social Security, Unemployment & Labor","Education, training, employment, and social services",Targeted jobs credit,1995,,320,75,,
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,1995,Tax credit and deduction for clean-fuel burning vehicles and properties,55,10,,Energy
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,1995,Tax credit and deduction for clean-fuel burning vehicles and properties,55,10,,Energy
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,1995,,2745,,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,1995,,15,,,Energy
 "Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,1995,,,50,,
@@ -2370,7 +2370,7 @@ Energy & Environment,Energy,Alcohol fuel credits,1996,,5,5,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1996,,535,35,,Social Security
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1996,,90,105,,Commerce and housing credit
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,1996,,,70,,Energy
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1996,"Capital gains (other than agriculture, timber, iron ore, and coal)",,7990,,Income security
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1996,,,7990,,Income security
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,1996,,,,,"Education, training, employment, and social services"
 Commerce,Agriculture,Capital gains treatment of certain income,1996,,,165,,Natural resources and environment
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1996,,,15,,Commerce and housing
@@ -2472,7 +2472,7 @@ Medicare & Health,Health,Special Blue Cross/Blue Shield deduction,1996,,120,,,Co
 "Social Security, Unemployment & Labor",Income security,Special ESOP rules,1996,,845,60,,Commerce and housing credit
 Energy & Environment,Natural resources and environment,Special rules for mining reclamation reserves,1996,,45,5,,Energy
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,1996,,,29530,,
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,1996,Tax credit and deduction for clean-fuel burning vehicles and properties,55,10,,Energy
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,1996,Tax credit and deduction for clean-fuel burning vehicles and properties,55,10,,Energy
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,1996,,2760,,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,1996,,5,,,Natural resources and environment
 "Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,1996,,,45,,
@@ -2491,7 +2491,7 @@ Energy & Environment,Energy,Alcohol fuel credits,1997,,5,5,,Health
 Energy & Environment,Energy,Alternative fuel production credit,1997,,565,35,,General government
 Commerce,Commerce and Housing,Amortization of start-up costs (normal tax method),1997,,95,105,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Cancellation of indebtedness,1997,,,40,,Energy
-Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1997,"Capital gains (other than agriculture, timber, iron ore, and coal)",,8230,,International affairs
+Commerce,Commerce and Housing,"Capital gains (except agriculture, timber, iron ore, and coal)",1997,,,8230,,International affairs
 Commerce,Commerce and Housing,Capital gains exclusion of small corporation stock,1997,,,,,"Education, training, employment, and social services"
 Commerce,Agriculture,Capital gains treatment of certain income,1997,,,170,,Commerce and housing
 Energy & Environment,Natural resources and environment,Capital gains treatment of certain timber income,1997,,,15,,Commerce and housing
@@ -2593,7 +2593,7 @@ Medicare & Health,Health,Special Blue Cross/Blue Shield deduction,1997,,135,,,Co
 "Social Security, Unemployment & Labor",Income security,Special ESOP rules,1997,,675,60,,Commerce and housing credit
 Energy & Environment,Natural resources and environment,Special rules for mining reclamation reserves,1997,,45,5,,General purpose fiscal assistance
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,1997,,,30715,,Energy
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,1997,Tax credit and deduction for clean-fuel burning vehicles and properties,55,10,,Energy
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,1997,Tax credit and deduction for clean-fuel burning vehicles and properties,55,10,,Energy
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,1997,,2700,,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,1997,,20,,,Energy
 "Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,1997,,,50,,
@@ -2722,7 +2722,7 @@ Medicare & Health,Health,Special Blue Cross/Blue Shield deduction,1998,,210,,,Co
 "Social Security, Unemployment & Labor",Income security,Special ESOP rules,1998,,660,260,,Commerce and housing credit
 Education,"Education, training, employment, and social services",State prepaid tuition plans,1998,Deferral for State prepaid tuition plans,,85,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,1998,,,24570,,Energy
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,1998,,60,15,,Energy
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,1998,Tax credit and deduction for clean-fuel burning vehicles,60,15,,Energy
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,1998,,3960,,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,1998,,40,,,Energy
 "Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,1998,,,40,,
@@ -2853,7 +2853,7 @@ Medicare & Health,Health,Special Blue Cross/Blue Shield deduction,1999,,245,,,Co
 "Social Security, Unemployment & Labor",Income security,Special ESOP rules,1999,,860,270,,Commerce and housing credit
 Education,"Education, training, employment, and social services",State prepaid tuition plans,1999,Deferral for State prepaid tuition plans,,120,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,1999,,,25800,,Energy
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,1999,,70,15,,Energy
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,1999,Tax credit and deduction for clean-fuel burning vehicles,70,15,,Energy
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,1999,,2515,,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,1999,,70,,,Energy
 "Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,1999,,,35,,
@@ -2985,7 +2985,7 @@ Medicare & Health,Health,Special Blue Cross/Blue Shield deduction,2000,,230,0,,C
 "Social Security, Unemployment & Labor",Income security,Special ESOP rules,2000,,940,300,,Commerce and housing credit
 Education,"Education, training, employment, and social services",State prepaid tuition plans,2000,Deferral for State prepaid tuition plans,0,100,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,2000,,0,27090,,Energy
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,2000,,50,10,,Energy
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,2000,Tax credit and deduction for clean-fuel burning vehicles,50,10,,Energy
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,2000,,2470,0,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,2000,,100,0,,Energy
 "Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,2000,,0,30,,
@@ -3121,7 +3121,7 @@ Medicare & Health,Health,Special Blue Cross/Blue Shield deduction,2001,,270,0,,C
 "Social Security, Unemployment & Labor",Income security,Special ESOP rules,2001,,980,310,,Commerce and housing credit
 Education,"Education, training, employment, and social services",State prepaid tuition plans,2001,,0,190,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,2001,,0,26540,,Energy
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,2001,,30,20,,Energy
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,2001,Tax credit and deduction for clean-fuel burning vehicles,30,20,,Energy
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,2001,,2190,0,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,2001,,140,0,,Energy
 "Social Security, Unemployment & Labor",Income security,Tax credit for the elderly and disabled,2001,,0,30,,
@@ -3257,7 +3257,7 @@ Medicare & Health,Health,Special Blue Cross/Blue Shield deduction,2002,,300,0,,C
 "Social Security, Unemployment & Labor",Income security,Special ESOP rules,2002,,1330,300,,Commerce and housing
 Education,"Education, training, employment, and social services",State prepaid tuition plans,2002,,0,270,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,2002,,0,26890,,Energy
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,2002,,50,20,,
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,2002,Tax credit and deduction for clean-fuel burning vehicles,50,20,,
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,2002,,2240,0,,Energy
 Medicare & Health,Health,Tax credit for health insurance purchased by certain displaced and retired individuals,2002,,0,0,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,2002,,140,0,,Energy
@@ -3395,7 +3395,7 @@ Education,"Education, training, employment, and social services",Special deducti
 "Social Security, Unemployment & Labor",Income security,Special ESOP rules,2003,,1460,320,,Commerce and housing
 Education,"Education, training, employment, and social services",State prepaid tuition plans,2003,,0,50,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,2003,,0,14880,,Energy
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,2003,,50,20,,
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,2003,Tax credit and deduction for clean-fuel burning vehicles,50,20,,
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,2003,,1200,0,,Energy
 Medicare & Health,Health,Tax credit for health insurance purchased by certain displaced and retired individuals,2003,,0,0,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,2003,,160,0,,Energy
@@ -3540,7 +3540,7 @@ Education,"Education, training, employment, and social services",Special deducti
 Housing & Community,Commerce and Housing,Special rules for certain film and TV production,2004,,0,0,,
 Education,"Education, training, employment, and social services",State prepaid tuition plans,2004,,0,210,,"Education, training, employment, and social services"
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,2004,,0,24200,,Energy
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,2004,,20,50,,
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,2004,Tax credit and deduction for clean-fuel burning vehicles,20,50,,
 Transportation,Transportation,Tax credit for certain expenditures for maintaining railroad tracks,2004,,0,0,,Energy
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,2004,,1000,0,,Energy
 Medicare & Health,Health,Tax credit for health insurance purchased by certain displaced and retired individuals,2004,,0,50,,Energy
@@ -3702,7 +3702,7 @@ Education,"Education, training, employment, and social services",Special deducti
 Housing & Community,Commerce and Housing,Special rules for certain film and TV production,2005,,70,20,,
 Education,"Education, training, employment, and social services",State prepaid tuition plans,2005,,0,430,,
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,2005,,0,26820,,Energy
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,2005,,50,20,,
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,2005,Tax credit and deduction for clean-fuel burning vehicles,50,20,,
 Transportation,Transportation,Tax credit for certain expenditures for maintaining railroad tracks,2005,,70,0,,Energy
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,2005,,800,0,,Commerce and housing credit
 Medicare & Health,Health,Tax credit for health insurance purchased by certain displaced and retired individuals,2005,,0,20,,Energy
@@ -3863,7 +3863,7 @@ Education,"Education, training, employment, and social services",Special deducti
 Housing & Community,Commerce and Housing,Special rules for certain film and TV production,2006,,90,20,,Agriculture
 Education,"Education, training, employment, and social services",State prepaid tuition plans,2006,,0,690,,
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,2006,,0,29600,,Commerce and housing credit
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,2006,,40,70,,
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,2006,Tax credit and deduction for clean-fuel burning vehicles,40,70,,
 Transportation,Transportation,Tax credit for certain expenditures for maintaining railroad tracks,2006,,140,0,,Energy
 Commerce,General purpose fiscal assistance,Tax credit for corporations receiving income from doing business in United States possessions,2006,,200,0,,Energy
 Medicare & Health,Health,Tax credit for health insurance purchased by certain displaced and retired individuals,2006,,0,0,,Commerce and housing
@@ -4024,7 +4024,7 @@ Education,"Education, training, employment, and social services",Special deducti
 Housing & Community,Commerce and Housing,Special rules for certain film and TV production,2007,,70,20,,Business investment
 Education,"Education, training, employment, and social services",State prepaid tuition plans,2007,,0,850,,
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,2007,,0,32600,,Commerce and housing credit
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,2007,,30,230,,
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,2007,Tax credit and deduction for clean-fuel burning vehicles,30,230,,
 Transportation,Transportation,Tax credit for certain expenditures for maintaining railroad tracks,2007,,120,10,,Energy
 Medicare & Health,Health,Tax credit for health insurance purchased by certain displaced and retired individuals,2007,,0,10,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,2007,,260,0,,Energy
@@ -4188,7 +4188,7 @@ Education,"Education, training, employment, and social services",Special deducti
 Housing & Community,Commerce and Housing,Special rules for certain film and TV production,2008,,60,10,,
 Education,"Education, training, employment, and social services",State prepaid tuition plans,2008,,0,1030,,National Defense
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,2008,,0,21590,,Commerce and housing credit
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,2008,,60,110,,
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,2008,Tax credit and deduction for clean-fuel burning vehicles,60,110,,
 Transportation,Transportation,Tax credit for certain expenditures for maintaining railroad tracks,2008,,160,20,,Energy
 Medicare & Health,Health,Tax credit for health insurance purchased by certain displaced and retired individuals,2008,,0,0,,Energy
 Medicare & Health,Health,Tax credit for orphan drug research,2008,,290,,,Energy
@@ -4358,7 +4358,7 @@ Education,"Education, training, employment, and social services",Special deducti
 Housing & Community,Commerce and Housing,Special rules for certain film and TV production,2009,,50,10,,
 Education,"Education, training, employment, and social services",State prepaid tuition plans,2009,,0,1200,,National Defense
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,2009,,0,41370,,Commerce and housing credit
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,2009,,80,50,,
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,2009,Tax credit and deduction for clean-fuel burning vehicles,80,50,,
 Transportation,Transportation,Tax credit for certain expenditures for maintaining railroad tracks,2009,,70,10,,Commerce and housing
 Government,Social Security,Tax Credit for Certain Government Retirees,2009,,0,40,,Energy
 Medicare & Health,Health,Tax credit for health insurance purchased by certain displaced and retired individuals,2009,,0,10,,Energy
@@ -4533,7 +4533,7 @@ Education,"Education, training, employment, and social services",Special deducti
 Housing & Community,Commerce and Housing,Special rules for certain film and TV production,2010,,40,10,,
 Education,"Education, training, employment, and social services",State prepaid tuition plans,2010,,0,1390,,National Defense
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,2010,,0,39520,,"Education, training, employment, and social services"
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,2010,,70,180,,
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,2010,Tax credit and deduction for clean-fuel burning vehicles,70,180,,
 Transportation,Transportation,Tax credit for certain expenditures for maintaining railroad tracks,2010,,40,10,,Energy
 Medicare & Health,Health,Tax credit for health insurance purchased by certain displaced and retired individuals,2010,,0,0,,Budget Function
 Medicare & Health,Health,Tax credit for orphan drug research,2010,,470,,,Energy
@@ -4706,7 +4706,7 @@ Education,"Education, training, employment, and social services",Special deducti
 "Social Security, Unemployment & Labor",Income security,Special ESOP rules,2011,,1030,470,,Commerce and housing
 Housing & Community,Commerce and Housing,Special rules for certain film and TV production,2011,,130,30,,Commerce and housing
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,2011,,,3940,,"Education, training, employment, and social services"
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,2011,,40,50,,
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,2011,Tax credit and deduction for clean-fuel burning vehicles,40,50,,
 Transportation,Transportation,Tax credit for certain expenditures for maintaining railroad tracks,2011,,130,30,,Energy
 Medicare & Health,Health,Tax credit for health insurance purchased by certain displaced and retired individuals,2011,,0,10,,Budget Function
 Medicare & Health,Health,Tax credit for orphan drug research,2011,,770,,,Commerce and housing credit
@@ -4875,7 +4875,7 @@ Education,"Education, training, employment, and social services",Special deducti
 "Social Security, Unemployment & Labor",Income security,Special ESOP rules,2012,,740,70,,Commerce and housing
 Housing & Community,Commerce and Housing,Special rules for certain film and TV production,2012,,100,30,,Commerce and housing
 Housing & Community,Commerce and Housing,Step-up basis of capital gains at death,2012,,,15490,,"Education, training, employment, and social services"
-Energy & Environment,Energy,Tax credit and deduction for clean-fuel burning vehicles,2012,,20,80,,
+Energy & Environment,Energy,Tax credits for clean-fuel burning vehicles,2012,Tax credit and deduction for clean-fuel burning vehicles,20,80,,
 Transportation,Transportation,Tax credit for certain expenditures for maintaining railroad tracks,2012,,100,30,,Energy
 Medicare & Health,Health,Tax credit for health insurance purchased by certain displaced and retired individuals,2012,,,10,,Budget Function
 Medicare & Health,Health,Tax credit for orphan drug research,2012,,840,,,Energy
@@ -4883,7 +4883,7 @@ Medicare & Health,Health,Tax credit for orphan drug research,2012,,840,,,Energy
 Commerce,Commerce and Housing,Tax exemption of certain insurance companies owned by tax-exempt organizations,2012,,800,,,Income security
 Energy & Environment,Natural resources and environment,Tax incentives for preservation of historic structures,2012,,490,50,,Income security
 Energy & Environment,Energy,Temporary 50% expensing for equipment used in the refining of liquid fuels,2012,,680,0,,Commerce and housing
-Transportation,Transportation,Tonnage tax election for certain international shipping income,2012,,60,,,Commerce and housing
+Transportation,Transportation,Tonnage tax,2012,Tonnage tax election for certain international shipping income,60,,,Commerce and housing
 Food & Agriculture,Agriculture,Treatment of loans forgiven for solvent farmers,2012,,,40,,Commerce and housing
 Commerce,Commerce and Housing,Treatment of qualified dividends,2012,,,29750,,Commerce and housing credit
 Housing & Community,Community and regional development,Tribal Economic Development Bonds,2012,,0,0,,Energy
