@@ -3,13 +3,16 @@ import numpy as np
 from pandas import DataFrame
 from decimal import *
 
-PRICE_INDEX_BASE_YEAR = 2013
+PRICE_INDEX_BASE_YEAR = 2015
 
 DIRECTORY = 'data/'
 TAX_BREAK_RAW = '%stax-break-raw.csv' % DIRECTORY
 GDP = '%shist10z1.xls' % DIRECTORY
 TAX_BREAK_COMPLETE = '%stax-break-complete.csv' % DIRECTORY
 TAX_BREAK_COMPLETE_CBO = '%stax-break-complete-combined-for-cbo.csv' % DIRECTORY
+
+#turn off pandas SettingWithCopyWarning
+pd.options.mode.chained_assignment = None
  
 def clean_text(text, required=True):
     if required and pd.isnull(text):
@@ -31,7 +34,8 @@ def clean_year(x):
 
 def clean_amount(amount):
     try:
-        return float(str(amount).replace(',','')) * 1000000
+        #incoming tax break estimates are in millions of dollars
+        return float(str(amount).replace(',','')) * 1000000 
     except:
         if pd.notnull(amount):
             print 'invalid amount changed to NaN: %s' % amount
@@ -85,12 +89,18 @@ def round_percent(x):
 # reported by OMB in the annual president's budget request, create
 # normalized time-series dataset of tax break estimated costs.
 
-gdpFile = pd.ExcelFile(GDP)
-gdp = gdpFile.parse(gdpFile.sheet_names[0], index_col=None, parse_cols=2)
+gdp = pd.read_excel(GDP, 0, parse_cols=[0,1,2])
 gdp.columns = ['year', 'gdp', 'gdp_price_index']
+#some cleanup to get rid of header/footer rows.
+#could be avoided if we assume incoming excel file
+#will be formatted the same way each year, but better
+#to assume this could change. when done, change
+#datatype of year column to int (pandas/numpy
+#doesn't support NA values in int arrays, so
+#make the change after the NA values are dropped)
 gdp['year'] = gdp['year'].map(lambda x: clean_year(x))
 gdp = gdp.dropna(subset=['year'])
-gdp.year = gdp.year.astype(np.int64)
+gdp['year'] = gdp['year'].astype(np.int64)
 
 ter = pd.read_csv(
     TAX_BREAK_RAW,
@@ -107,7 +117,7 @@ missing_years = len(te[te['year'].isnull()].index)
 if missing_years > 0:
     print 'dropping %s rows with missing year' % missing_years
     te = te.dropna(subset=['year'])
-te.year = te.year.astype(np.int64)
+te['year'] = te['year'].astype(np.int64)
 
 #strip leading/trailing whitespace from incoming text fields
 te['name'] = te['name'].apply(lambda x: clean_text(x))
@@ -193,9 +203,9 @@ def prep_aggregate(df):
     df['percent_npp_cat'] = np.nan
     df['omb_cat'] = ' '
     df['npp_cat'] = ' '
-    df.corp_adj = df.corp_adj.astype(np.float)
-    df.indv_adj = df.indv_adj.astype(np.float)
-    df.total_adj = df.total_adj.astype(np.float)
+    df['corp_adj'] = df['corp_adj'].astype(np.float)
+    df['indv_adj'] = df['indv_adj'].astype(np.float)
+    df['total_adj'] = df['total_adj'].astype(np.float)
     df = df.groupby(['npp_cat', 'omb_cat', 'name', 'year', 'gdp', 'gdp_price_index']).sum().reset_index()
     return df
 
@@ -239,13 +249,13 @@ def round_agg(df):
 te_agg = te
 
 #capital gains
-include_pattern = '(Capital Gains)'
+include_pattern = '(?:Capital Gains)'
 capgains = te_agg[te_agg['name'].str.contains(include_pattern)]
-exclude_death = '^((?!Death).)*$'
+exclude_death = '^(?:(?!Death).)*$'
 capgains = capgains[capgains['name'].str.contains(exclude_death)]
-exclude_home = '^((?!Home).)*$'
+exclude_home = '^(?:(?!Home).)*$'
 capgains = capgains[capgains['name'].str.contains(exclude_home)]
-exclude_gift = '^((?!Gift).)*$'
+exclude_gift = '^(?:(?!Gift).)*$'
 capgains = capgains[capgains['name'].str.contains(exclude_gift)]
 dividends = te_agg[te_agg['name'].str.contains('Treatment Of Qualified Dividends')]
 agg = pd.concat([capgains, dividends])
@@ -292,7 +302,7 @@ viz = pd.concat([viz, agg])
 
 #net pension contributions and earnings
 employer_plans = te_agg[te_agg['name'].str.contains('Employer Plans')]
-pattern_401k = '(401\(K\))'
+pattern_401k = '(?:401\(K\))'
 k401 = te_agg[te_agg['name'].str.contains(pattern_401k)]
 keogh = te_agg[te_agg['name'].str.contains('Keogh')]
 agg = pd.concat([employer_plans, k401, keogh])
