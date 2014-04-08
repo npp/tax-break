@@ -318,19 +318,21 @@ viz = pd.concat([te_agg, viz], ignore_index=True)
 
 #spiff up some tax break names for display
 viz['name'] = viz['name'].str.replace('Exclusion Of Employer Contributions For Medical Insurance Premiums And Medical Care',
-    'Exclusion of Employer-Sponsored Health Care')
+    'Exclusion of Employer-Sponsored Health Care', case=False)
 viz['name'] = viz['name'].str.replace('Deductibility Of Mortgage Interest On Owner-Occupied Homes',
-    'Deduction of Home Mortgage Interest')
+    'Deduction of Home Mortgage Interest', case=False)
 viz['name'] = viz['name'].str.replace('Exclusion Of Net Imputed Rental Income',
-    'Exclusion of Imputed Rental Income')
+    'Exclusion of Imputed Rental Income', case=False)
 viz['name'] = viz['name'].str.replace('Deductibility Of Nonbusiness State And Local Taxes Other Than On Owner-Occupied Homes',
-    'Deduction of State and Local Taxes')
+    'Deduction of State and Local Taxes', case=False)
 viz['name'] = viz['name'].str.replace('Deferral Of Income From Controlled Foreign Corporations',
-    'Deferral of Corporate Income Earned Abroad')
+    'Deferral of Corporate Income Earned Abroad', case=False)
 viz['name'] = viz['name'].str.replace('Deductibility Of Charitable Contributions, Other Than Education And Health',
-    'Deduction of Charitable Contributions (Other Than Education and Health)')
+    'Deduction of Charitable Contributions (Other Than Education and Health)', case=False)
 viz['name'] = viz['name'].str.replace('Exclusion Of Interest On Public Purpose State And Local Bonds',
-    'Exclusion of Interest Income on State and Local Bonds')
+    'Exclusion of Interest Income on State and Local Bonds', case=False)
+viz['name'] = viz['name'].str.replace('Accelerated Depreciation Of Machinery And Equipment',
+    'Accelerated Depreciation', case=False)
 
 viz.sort(['year','name'], inplace=True)
 viz.to_csv('%s' % TAX_BREAK_COMPLETE_CBO, index=False,
