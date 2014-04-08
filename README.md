@@ -1,4 +1,4 @@
-![National Priorities Project](http://nationalpriorities.org/static/images/npp-logo-green.jpg)
+![National Priorities Project](http://static.natprior.org/images/native/npp-logo.png)
 Tax Break Costs
 =========
 
